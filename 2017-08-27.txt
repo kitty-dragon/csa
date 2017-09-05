@@ -1,0 +1,584 @@
+1. Mathonical           - Naya Gond
+2. Toastmachine         - Eye Candy
+3. _goblinlackey        - Kitty Monarch
+4. MattHurricane        - Eye Candy
+5. Servemais            - Stompy
+6. greenprinny          - UW Tribe
+7. Promidnightz         - Stompy
+8. EightSixEightSix     - UB Reanimator
+----- 5-2 group -----
+9. TheMagePower         - UR Delver
+10. Jorge_Jung          - Burn
+11. Dazai               - Mono Blue Delver
+12. Bruetschle          - UR Thermo-Archer
+13. NGFC_Mark           - UB Ratlock
+14. _IlNano_            - Bogles
+----- 4-3 group -----
+15. tarkanmag           - UB Ratlock
+16. _megafone_          - Affinity
+17. BoilersMakers342000 - UR Delver
+18. Masumaro            - UB Alchemy
+19. Hrymfaxe            - Stompy
+20. JasenBS             - Affinity (Disciple)
+21. twuruki             - UR Delver
+22. DDevitt             - Kitty Tokens
+23. hogpog_98           - Burn
+24. pokerswizard        - Bogles
+25. 3minem              - UR Delver
+26. pro_playa_slaya     - UB Reanimator
+27. mlovbo              - UG Tron
+28. bkubit              - UR Delver
+29. Sqlut               - UR Delver
+30. ComeOnAlready       - MBC
+31. CdubWewLad          - Stompy
+32. Mandark             - Mono Blue Delver
+----- 3-X group -----
+33. coolman2347         - Stompy
+34. WilliamRegal        - Burn
+35. mRichi              - Burn
+36. Marco.R             - Eye Candy
+37. GLNemesis           - Stompy
+38. Amigosu             - Stompy
+39. deluxeicoff         - UW Tribe
+40. RainerZahnfall92    - Bogles
+41. kobamasa            - MBC
+42. Grominou            - Affinity
+43. piantolol           - Affinity
+44. vallekao            - Affinity
+----- 2-X group -----
+45. _Takeno_            - Affinity
+46. overlordhellkite    - Affinity
+47. GiestOfIWin         - MBC
+48. MoofPotter          - Stompy
+49. LuisMJ              - Burn
+50. T_Wrecks            - Kitty Monarch
+51. Sleepy_Jean         - Affinity
+52. Samgrade            - Burn
+53. sakkra              - Stompy
+54. andersongouvea      - Affinity
+----- 1-X group -----
+55. TonyMontana         - Affinity
+56. blaze66             - UW Tribe
+57. HeyNongMan          - UW Tribe
+58. LazZoo              - UR Thermo-Archer
+59. Xto2                - UG Tron
+60. Oderus Urungus      - Burn
+61. HolyShamgar         - Kitty Monarch
+62. nerdolfo            - MBC (Land Destruction main)
+----- 0-X group -----
+63. fellepastier        - UR Delver
+64. pproteus            - Stompy
+65. _gabrielfehr_       - Naya Gond
+66. AleLawyer1          - Affinity
+67. ticki               - UR Delver
+68. Vagar               - Kitty Tokens
+
+##### Round 10 #####
+1. Mathonical           - 2-0 Toastmachine
+2. Toastmachine         - 0-2 Mathonical
+
+##### Round 9 #####
+1. Mathonical           - 2-0 _goblinlackey
+2. Toastmachine         - 2-1 MattHurricane
+3. _goblinlackey        - 0-2 Mathonical
+4. MattHurricane        - 1-2 Toastmachine
+
+##### Round 8 #####
+1. Mathonical           - 2-0 Promidnightz
+2. Toastmachine         - 2-1 greenprinny
+3. _goblinlackey        - 2-0 EightSixEightSix
+4. MattHurricane        - 2-0 Servemais
+5. Servemais            - 0-2 MattHurricane
+6. greenprinny          - 1-2 Toastmachine
+7. Promidnightz         - 0-2 Mathonical
+8. EightSixEightSix     - 0-2 _goblinlackey
+
+##### Round 7 #####
+1. Mathonical           - 2-1 MattHurricane
+2. Toastmachine         - 0-2 Servemais
+3. _goblinlackey        - 2-0 Promidnightz
+4. MattHurricane        - 1-2 Mathonical
+5. Servemais            - 2-0 Toastmachine
+6. greenprinny          - 2-0 TheMagePower
+7. Promidnightz         - 0-2 _goblinlackey
+8. EightSixEightSix     - 2-0 hogpog_98
+9. TheMagePower         - 0-2 greenprinny
+10. Jorge_Jung          - 2-0 mlovbo
+11. Dazai               - 2-1 Masumaro
+12. Bruetschle          - 2-1 DDevitt
+13. NGFC_Mark           - 2-0 BoilersMakers342000
+14. _IlNano_            - 2-0 tarkanmag
+15. tarkanmag           - 0-2 _IlNano_
+16. _megafone_          - 2-1 mRichi
+17. BoilersMakers342000 - 0-2 NGFC_Mark
+18. Masumaro            - 1-2 Dazai
+19. Hrymfaxe            - 2-1 RainerZahnfall92
+20. JasenBS             - 2-0 Sqlut
+21. twuruki             - 2-1 Grominou
+22. DDevitt             - 1-2 Bruetschle
+23. hogpog_98           - 0-2 EightSixEightSix
+24. pokerswizard        - 2-0 deluxeicoff
+25. 3minem              - 2-1 coolman2347
+26. pro_playa_slaya     - 1-0 GLNemesis
+27. mlovbo              - 0-2 Jorge_Jung
+28. bkubit              - 2-0 piantolol
+29. Sqlut               - 0-2 JasenBS
+30. ComeOnAlready       - 
+31. CdubWewLad          - 1-0 Amigosu
+32. Mandark             - 2-0 Marco.R
+33. coolman2347         - 1-2 3minem
+34. WilliamRegal        - 
+35. mRichi              - 1-2 _megafone_
+36. Marco.R             - 0-2 Mandark
+37. GLNemesis           - 0-1 pro_playa_slaya
+38. Amigosu             - 0-1 CdubWewLad
+39. deluxeicoff         - 0-2 pokerswizard
+40. RainerZahnfall92    - 1-2 Hrymfaxe
+41. kobamasa            - 2-1 GiestOfIWin
+42. Grominou            - 1-2 twuruki
+43. piantolol           - 0-2 bkubit
+44. vallekao            - 1-0 sakkra
+45. _Takeno_            - 
+46. overlordhellkite    - 
+47. GiestOfIWin         - 1-2 kobamasa
+48. MoofPotter          - 
+49. LuisMJ              - 
+50. T_Wrecks            - 
+51. Sleepy_Jean         - 
+52. Samgrade            - 
+53. sakkra              - 0-1 vallekao
+54. andersongouvea      - 
+55. TonyMontana         - 
+56. blaze66             - 
+57. HeyNongMan          - 
+58. LazZoo              - 
+59. Xto2                - 
+60. Oderus Urungus      - 
+61. HolyShamgar         - 
+62. nerdolfo            - 
+63. fellepastier        - 
+64. pproteus            - 
+65. _gabrielfehr_       - 
+66. AleLawyer1          - 
+67. ticki               - 
+68. Vagar               - 
+
+##### Round 6 #####
+1. Mathonical           - 2-1 hogpog_98
+2. Toastmachine         - 1-0 ComeOnAlready
+3. _goblinlackey        - 2-0 Servemais
+4. MattHurricane        - 2-0 Dazai
+5. Servemais            - 0-2 _goblinlackey
+6. greenprinny          - 2-0 tarkanmag
+7. Promidnightz         - 2-0 BoilersMakers342000
+8. EightSixEightSix     - 2-0 WilliamRegal
+9. TheMagePower         - 2-0 coolman2347
+10. Jorge_Jung          - 2-0 CdubWewLad
+11. Dazai               - 0-2 MattHurricane
+12. Bruetschle          - 2-0 _megafone_
+13. NGFC_Mark           - 2-0 Marco.R
+14. _IlNano_            - 2-1 GLNemesis
+15. tarkanmag           - 0-2 greenprinny
+16. _megafone_          - 0-2 Bruetschle
+17. BoilersMakers342000 - 0-2 Promidnightz
+18. Masumaro            - 2-1 3minem
+19. Hrymfaxe            - 2-0 T_Wrecks
+20. JasenBS             - 2-1 Amigosu
+21. twuruki             - 1-2 mlovbo
+22. DDevitt             - 2-1 mRichi
+23. hogpog_98           - 1-2 Mathonical
+24. pokerswizard        - 2-1 andersongouvea
+25. 3minem              - 1-2 Masumaro
+26. pro_playa_slaya     - 2-0 _Takeno_
+27. mlovbo              - 2-1 twuruki
+28. bkubit              - 0-2 Sqlut
+29. Sqlut               - 2-0 bkubit
+30. ComeOnAlready       - 0-1 Toastmachine
+31. CdubWewLad          - 0-2 Jorge_Jung
+32. Mandark             - 2-0 LuisMJ
+33. coolman2347         - 0-2 TheMagePower
+34. WilliamRegal        - 0-2 EightSixEightSix
+35. mRichi              - 1-2 DDevitt
+36. Marco.R             - 0-2 NGFC_Mark
+37. GLNemesis           - 1-2 _IlNano_
+38. Amigosu             - 1-2 JasenBS
+39. deluxeicoff         - 2-0 Samgrade
+40. RainerZahnfall92    - 2-0 overlordhellkite
+41. kobamasa            - 2-1 MoofPotter
+42. Grominou            - 2-0 vallekao
+43. piantolol           - 2-0 Sleepy_Jean
+44. vallekao            - 0-2 Grominou
+45. _Takeno_            - 0-2 pro_playa_slaya
+46. overlordhellkite    - 0-2 RainerZahnfall92
+47. GiestOfIWin         - 2-0 nerdolfo
+48. MoofPotter          - 1-2 kobamasa
+49. LuisMJ              - 0-2 Mandark
+50. T_Wrecks            - 0-2 Hrymfaxe
+51. Sleepy_Jean         - 0-2 piantolol
+52. Samgrade            - 0-2 deluxeicoff
+53. sakkra              - 
+54. andersongouvea      - 1-2 pokerswizard
+55. TonyMontana         - 
+56. blaze66             - 
+57. HeyNongMan          - 
+58. LazZoo              - 
+59. Xto2                - 
+60. Oderus Urungus      - 
+61. HolyShamgar         - 
+62. nerdolfo            - 0-2 GiestOfIWin
+63. fellepastier        - 
+64. pproteus            - 
+65. _gabrielfehr_       - 
+66. AleLawyer1          - 
+67. ticki               - 
+68. Vagar               - 
+
+##### Round 5 #####
+1. Mathonical           - 2-1 twuruki
+2. Toastmachine         - 1-2 _goblinlackey
+3. _goblinlackey        - 2-1 Toastmachine
+4. MattHurricane        - 2-1 JasenBS
+5. Servemais            - 2-1 greenprinny
+6. greenprinny          - 1-2 Servemais
+7. Promidnightz         - 2-0 EightSixEightSix
+8. EightSixEightSix     - 0-2 Promidnightz
+9. TheMagePower         - 2-0 WilliamRegal
+10. Jorge_Jung          - 2-0 Hrymfaxe
+11. Dazai               - 2-1 mRichi
+12. Bruetschle          - 2-1 Grominou
+13. NGFC_Mark           - 2-0 _Takeno_
+14. _IlNano_            - 2-1 LuisMJ
+15. tarkanmag           - 2-1 GLNemesis
+16. _megafone_          - 2-1 deluxeicoff
+17. BoilersMakers342000 - 2-0 Marco.R
+18. Masumaro            - 2-1 pro_playa_slaya
+19. Hrymfaxe            - 0-2 Jorge_Jung
+20. JasenBS             - 1-2 MattHurricane
+21. twuruki             - 1-2 Mathonical
+22. DDevitt             - 0-2 hogpog_98
+23. hogpog_98           - 2-0 DDevitt
+24. pokerswizard        - 2-0 LazZoo
+25. 3minem              - 2-1 Samgrade
+26. pro_playa_slaya     - 1-2 Masumaro
+27. mlovbo              - 2-0 overlordhellkite
+28. bkubit              - 2-1 RainerZahnfall92
+29. Sqlut               - 2-1 Mandark
+30. ComeOnAlready       - 2-0 coolman2347
+31. CdubWewLad          - 2-1 MoofPotter
+32. Mandark             - 1-2 Sqlut
+33. coolman2347         - 0-2 ComeOnAlready
+34. WilliamRegal        - 0-2 TheMagePower
+35. mRichi              - 1-2 Dazai
+36. Marco.R             - 0-2 BoilersMakers342000
+37. GLNemesis           - 1-2 tarkanmag
+38. Amigosu             - 2-0 piantolol
+39. deluxeicoff         - 1-2 _megafone_
+40. RainerZahnfall92    - 1-2 bkubit
+41. kobamasa            - 0-2 T_Wrecks
+42. Grominou            - 1-2 Bruetschle
+43. piantolol           - 0-2 Amigosu
+44. vallekao            - 2-0 HolyShamgar
+45. _Takeno_            - 0-2 NGFC_Mark
+46. overlordhellkite    - 0-2 mlovbo
+47. GiestOfIWin         - 0-2 Sleepy_Jean
+48. MoofPotter          - 1-2 CdubWewLad
+49. LuisMJ              - 1-2 _IlNano_
+50. T_Wrecks            - 2-0 kobamasa
+51. Sleepy_Jean         - 2-0 GiestOfIWin
+52. Samgrade            - 1-2 3minem
+53. sakkra              - 1-2 andersongouvea
+54. andersongouvea      - 2-1 sakkra
+55. TonyMontana         - 
+56. blaze66             - 
+57. HeyNongMan          - 
+58. LazZoo              - 0-2 pokerswizard
+59. Xto2                - 
+60. Oderus Urungus      - 
+61. HolyShamgar         - 0-2 vallekao
+62. nerdolfo            - 
+63. fellepastier        - 
+64. pproteus            - 
+65. _gabrielfehr_       - 
+66. AleLawyer1          - 
+67. ticki               - 
+68. Vagar               - 
+
+##### Round 4 #####
+1. Mathonical           - 1-2 greenprinny
+2. Toastmachine         - 2-1 BoilersMakers342000
+3. _goblinlackey        - 2-0 EightSixEightSix
+4. MattHurricane        - 2-0 _megafone_
+5. Servemais            - 2-1 tarkanmag
+6. greenprinny          - 2-1 Mathonical
+7. Promidnightz         - 2-1 RainerZahnfall92
+8. EightSixEightSix     - 0-2 _goblinlackey
+9. TheMagePower         - 0-2 twuruki
+10. Jorge_Jung          - 0-2-1 coolman2347
+11. Dazai               - 2-0 pro_playa_slaya
+12. Bruetschle          - 0-2 WilliamRegal
+13. NGFC_Mark           - 2-1 Oderus Urungus
+14. _IlNano_            - 2-1 sakkra
+15. tarkanmag           - 1-2 Servemais
+16. _megafone_          - 0-2 MattHurricane
+17. BoilersMakers342000 - 1-2 Toastmachine
+18. Masumaro            - 0-2 hogpog_98
+19. Hrymfaxe            - 0-2 ComeOnAlready
+20. JasenBS             - 2-0 _Takeno_
+21. twuruki             - 2-0 TheMagePower
+22. DDevitt             - 2-0 3minem
+23. hogpog_98           - 2-0 Masumaro
+24. pokerswizard        - 0-2 Sqlut
+25. 3minem              - 0-2 DDevitt
+26. pro_playa_slaya     - 0-2 Dazai
+27. mlovbo              - 0-2 Marco.R
+28. bkubit              - 2-1 LazZoo
+29. Sqlut               - 2-0 pokerswizard
+30. ComeOnAlready       - 2-0 Hrymfaxe
+31. CdubWewLad          - 2-0 blaze66
+32. Mandark             - 2-0 GiestOfIWin
+33. coolman2347         - 2-0-1 Jorge_Jung
+34. WilliamRegal        - 2-0 Bruetschle
+35. mRichi              - 2-0 overlordhellkite
+36. Marco.R             - 2-0 mlovbo
+37. GLNemesis           - 2-0 Grominou
+38. Amigosu             - 2-1 kobamasa
+39. deluxeicoff         - 2-1 vallekao
+40. RainerZahnfall92    - 1-2 Promidnightz
+41. kobamasa            - 1-2 Amigosu
+42. Grominou            - 0-2 GLNemesis
+43. piantolol           - 2-0 T_Wrecks
+44. vallekao            - 1-2 deluxeicoff
+45. _Takeno_            - 0-2 JasenBS
+46. overlordhellkite    - 0-2 mRichi
+47. GiestOfIWin         - 0-2 Mandark
+48. MoofPotter          - 2-1 nerdolfo
+49. LuisMJ              - 2-0 andersongouvea
+50. T_Wrecks            - 0-2 piantolol
+51. Sleepy_Jean         - 2-1 AleLawyer1
+52. Samgrade            - 2-1 HolyShamgar
+53. sakkra              - 1-2 _IlNano_
+54. andersongouvea      - 0-2 LuisMJ
+55. TonyMontana         - 
+56. blaze66             - 0-2 CdubWewLad
+57. HeyNongMan          - 
+58. LazZoo              - 1-2 bkubit
+59. Xto2                - 
+60. Oderus Urungus      - 1-2 NGFC_Mark
+61. HolyShamgar         - 1-2 Samgrade
+62. nerdolfo            - 1-2 MoofPotter
+63. fellepastier        - 
+64. pproteus            - 
+65. _gabrielfehr_       - 
+66. AleLawyer1          - 1-2 Sleepy_Jean
+67. ticki               - 
+68. Vagar               - 
+
+##### Round 3 #####
+1. Mathonical           - 2-1 Marco.R
+2. Toastmachine         - 2-0 overlordhellkite
+3. _goblinlackey        - 2-0 _megafone_
+4. MattHurricane        - 1-2 Servemais
+5. Servemais            - 2-1 MattHurricane
+6. greenprinny          - 2-0 T_Wrecks
+7. Promidnightz         - 2-1 NGFC_Mark
+8. EightSixEightSix     - 2-1 mRichi
+9. TheMagePower         - 2-0 Jorge_Jung
+10. Jorge_Jung          - 0-2 TheMagePower
+11. Dazai               - 2-1 blaze66
+12. Bruetschle          - 2-1 deluxeicoff
+13. NGFC_Mark           - 1-2 Promidnightz
+14. _IlNano_            - 1-0 fellepastier
+15. tarkanmag           - 2-0 twuruki
+16. _megafone_          - 0-2 _goblinlackey
+17. BoilersMakers342000 - 2-1 GLNemesis
+18. Masumaro            - 2-0 pokerswizard
+19. Hrymfaxe            - 2-1 LuisMJ
+20. JasenBS             - 
+21. twuruki             - 0-2 tarkanmag
+22. DDevitt             - 2-0 kobamasa
+23. hogpog_98           - 2-0 HeyNongMan
+24. pokerswizard        - 0-2 Masumaro
+25. 3minem              - 2-1 Xto2
+26. pro_playa_slaya     - 2-0 piantolol
+27. mlovbo              - 2-0 Amigosu
+28. bkubit              - 1-0 pproteus
+29. Sqlut               - 2-0 MoofPotter
+30. ComeOnAlready       - 2-1 GiestOfIWin
+31. CdubWewLad          - 1-2 WilliamRegal
+32. Mandark             - 1-2 coolman2347
+33. coolman2347         - 2-1 Mandark
+34. WilliamRegal        - 2-1 CdubWewLad
+35. mRichi              - 1-2 EightSixEightSix
+36. Marco.R             - 1-2 Mathonical
+37. GLNemesis           - 1-2 BoilersMakers342000
+38. Amigosu             - 0-2 mlovbo
+39. deluxeicoff         - 1-2 Bruetschle
+40. RainerZahnfall92    - 2-0 Oderus Urungus
+41. kobamasa            - 0-2 DDevitt
+42. Grominou            - 2-1 sakkra
+43. piantolol           - 0-2 pro_playa_slaya
+44. vallekao            - 2-1 nerdolfo
+45. _Takeno_            - 2-0 andersongouvea
+46. overlordhellkite    - 0-2 Toastmachine
+47. GiestOfIWin         - 1-2 ComeOnAlready
+48. MoofPotter          - 0-2 Sqlut
+49. LuisMJ              - 1-2 Hrymfaxe
+50. T_Wrecks            - 0-2 greenprinny
+51. Sleepy_Jean         - 1-2 HolyShamgar
+52. Samgrade            - 1-0 _gabrielfehr_
+53. sakkra              - 1-2 Grominou
+54. andersongouvea      - 0-2 _Takeno_
+55. TonyMontana         - 
+56. blaze66             - 1-2 Dazai
+57. HeyNongMan          - 0-2 hogpog_98
+58. LazZoo              - 2-1 AleLawyer1
+59. Xto2                - 1-2 3minem
+60. Oderus Urungus      - 0-2 RainerZahnfall92
+61. HolyShamgar         - 2-1 Sleepy_Jean
+62. nerdolfo            - 1-2 vallekao
+63. fellepastier        - 0-1 _IlNano_
+64. pproteus            - 0-1 bkubit
+65. _gabrielfehr_       - 0-1 Samgrade
+66. AleLawyer1          - 1-2 LazZoo
+67. ticki               - 
+68. Vagar               - 
+
+##### Round 2 #####
+1. Mathonical           - 2-0 Hrymfaxe
+2. Toastmachine         - 2-0 andersongouvea
+3. _goblinlackey        - 1-0 TonyMontana
+4. MattHurricane        - 2-0 blaze66
+5. Servemais            - 2-1 Promidnightz
+6. greenprinny          - 2-0 pokerswizard
+7. Promidnightz         - 1-2 Servemais
+8. EightSixEightSix     - 2-1 coolman2347
+9. TheMagePower         - 2-1 Xto2
+10. Jorge_Jung          - 2-0 HeyNongMan
+11. Dazai               - 0-2 overlordhellkite
+12. Bruetschle          - 0-2 BoilersMakers342000
+13. NGFC_Mark           - 2-0 JasenBS
+14. _IlNano_            - 1-2 Amigosu
+15. tarkanmag           - 2-0 deluxeicoff
+16. _megafone_          - 2-1 Masumaro
+17. BoilersMakers342000 - 2-0 Bruetschle
+18. Masumaro            - 1-2 _megafone_
+19. Hrymfaxe            - 0-2 Mathonical
+20. JasenBS             - 0-2 NGFC_Mark
+21. twuruki             - 2-1 _Takeno_
+22. DDevitt             - 2-1 _gabrielfehr_
+23. hogpog_98           - 2-0 AleLawyer1
+24. pokerswizard        - 0-2 greenprinny
+25. 3minem              - 1-0 Vagar
+26. pro_playa_slaya     - 1-0 ticki
+27. mlovbo              - 2-1 MoofPotter
+28. bkubit              - 0-2 kobamasa
+29. Sqlut               - 0-2 GiestOfIWin
+30. ComeOnAlready       - 2-0 LazZoo
+31. CdubWewLad          - 2-1 Sleepy_Jean
+32. Mandark             - 2-1 fellepastier
+33. coolman2347         - 1-2 EightSixEightSix
+34. WilliamRegal        - 0-2 mRichi
+35. mRichi              - 2-0 WilliamRegal
+36. Marco.R             - 2-0 LuisMJ
+37. GLNemesis           - 2-1 sakkra
+38. Amigosu             - 2-1 _IlNano_
+39. deluxeicoff         - 0-2 tarkanmag
+40. RainerZahnfall92    - 2-1 nerdolfo
+41. kobamasa            - 2-0 bkubit
+42. Grominou            - 2-0 HolyShamgar
+43. piantolol           - 2-0 vallekao
+44. vallekao            - 0-2 piantolol
+45. _Takeno_            - 1-2 twuruki
+46. overlordhellkite    - 2-0 Dazai
+47. GiestOfIWin         - 2-0 Sqlut
+48. MoofPotter          - 1-2 mlovbo
+49. LuisMJ              - 0-2 Marco.R
+50. T_Wrecks            - 2-0 Samgrade
+51. Sleepy_Jean         - 1-2 CdubWewLad
+52. Samgrade            - 0-2 T_Wrecks
+53. sakkra              - 1-2 GLNemesis
+54. andersongouvea      - 0-2 Toastmachine
+55. TonyMontana         - 0-1 _goblinlackey
+56. blaze66             - 0-2 MattHurricane
+57. HeyNongMan          - 0-2 Jorge_Jung
+58. LazZoo              - 0-2 ComeOnAlready
+59. Xto2                - 1-2 TheMagePower
+60. Oderus Urungus      - 2-0 pproteus
+61. HolyShamgar         - 0-2 Grominou
+62. nerdolfo            - 1-2 RainerZahnfall92
+63. fellepastier        - 1-2 Mandark
+64. pproteus            - 0-2 Oderus Urungus
+65. _gabrielfehr_       - 1-2 DDevitt
+66. AleLawyer1          - 0-2 hogpog_98
+67. ticki               - 0-1 pro_playa_slaya
+68. Vagar               - 0-1 3minem
+
+##### Round 1 #####
+1. Mathonical           - 2-0 vallekao
+2. Toastmachine         - 2-1 _IlNano_
+3. _goblinlackey        - 2-1 kobamasa
+4. MattHurricane        - 2-0 RainerZahnfall92
+5. Servemais            - 2-0 bkubit
+6. greenprinny          - 2-1 3minem
+7. Promidnightz         - 2-0 pproteus
+8. EightSixEightSix     - 2-1 AleLawyer1
+9. TheMagePower         - 2-1 Sleepy_Jean
+10. Jorge_Jung          - 2-1 LazZoo
+11. Dazai               - 2-1 DDevitt
+12. Bruetschle          - 2-1 Samgrade
+13. NGFC_Mark           - 1-2 GLNemesis
+14. _IlNano_            - 1-2 Toastmachine
+15. tarkanmag           - 2-0 pro_playa_slaya
+16. _megafone_          - 2-0 CdubWewLad
+17. BoilersMakers342000 - 2-1 GiestOfIWin
+18. Masumaro            - 2-0 HolyShamgar
+19. Hrymfaxe            - 2-1 JasenBS
+20. JasenBS             - 1-2 Hrymfaxe
+21. twuruki             - 2-0 _gabrielfehr_
+22. DDevitt             - 1-2 Dazai
+23. hogpog_98           - 1-2 _Takeno_
+24. pokerswizard        - 2-0 mlovbo
+25. 3minem              - 1-2 greenprinny
+26. pro_playa_slaya     - 0-2 tarkanmag
+27. mlovbo              - 0-2 pokerswizard
+28. bkubit              - 0-2 Servemais
+29. Sqlut               - 0-2 blaze66
+30. ComeOnAlready       - 0-2 mRichi
+31. CdubWewLad          - 0-2 _megafone_
+32. Mandark             - 1-2 HeyNongMan
+33. coolman2347         - 2-1 Grominou
+34. WilliamRegal        - 2-0 piantolol
+35. mRichi              - 2-0 ComeOnAlready
+36. Marco.R             - 2-0 nerdolfo
+37. GLNemesis           - 2-1 NGFC_Mark
+38. Amigosu             - 1-2 deluxeicoff
+39. deluxeicoff         - 2-1 Amigosu
+40. RainerZahnfall92    - 0-2 MattHurricane
+41. kobamasa            - 1-2 _goblinlackey
+42. Grominou            - 1-2 coolman2347
+43. piantolol           - 0-2 WilliamRegal
+44. vallekao            - 0-2 Mathonical
+45. _Takeno_            - 2-1 hogpog_98
+46. overlordhellkite    - 2-0 ticki
+47. GiestOfIWin         - 1-2 BoilersMakers342000
+48. MoofPotter          - 0-2 TonyMontana
+49. LuisMJ              - 2-1 Oderus Urungus
+50. T_Wrecks            - 1-2 Xto2
+51. Sleepy_Jean         - 1-2 TheMagePower
+52. Samgrade            - 1-2 Bruetschle
+53. sakkra              - 2-1 fellepastier
+54. andersongouvea      - 2-0 Vagar
+55. TonyMontana         - 2-0 MoofPotter
+56. blaze66             - 2-0 Sqlut
+57. HeyNongMan          - 2-1 Mandark
+58. LazZoo              - 1-2 Jorge_Jung
+59. Xto2                - 2-1 T_Wrecks
+60. Oderus Urungus      - 1-2 LuisMJ
+61. HolyShamgar         - 0-2 Masumaro
+62. nerdolfo            - 0-2 Marco.R
+63. fellepastier        - 1-2 sakkra
+64. pproteus            - 0-2 Promidnightz
+65. _gabrielfehr_       - 0-2 twuruki
+66. AleLawyer1          - 1-2 EightSixEightSix
+67. ticki               - 0-2 overlordhellkite
+68. Vagar               - 0-2 andersongouvea

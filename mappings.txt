@@ -1,0 +1,22 @@
+1-land Spy,Spy
+Angler Delver,UB Delver,Dimir Angler,UB Faeries
+Bogles,Hexproof
+Delver,Mono Blue Delver
+Dinrova Tron,BUG Tron
+Eye Candy,UR Blitz,Izzet Blitz
+Inside Out,UW Tribe
+Kitty,RW Kitty,RW Kitty Monarch,Kitty Monarch,Kitty Tokens,RW Kitty Tokens,Jeskai Kitty
+Midnight Gond,Naya Gond
+Mono Green Tron,RUG Tron
+Mono Red Heroic,Red Heroic
+Ratlock,UB Flicker,UB Ratlock,Dimir Flicker,Dimir Ratlock,Grixis Flicker
+Snow Delver,UR Delver,Izzet Delver
+Turbofog,UG Turbofog
+Alchemy,UB Alchemy,Dimir Alchemy
+UB Reanimator,Dimir Exhume
+Teachings,UB Teachings,Dimir Teachings,Grixis Teachings
+UR Burn,Izzet Burn,UR Thermo-Archer,UR Prowess
+Puzzle,UR Puzzle,Izzet Puzzle
+White Weenie,Monowhite
+MBC,Mono Black Thorn
+RDW,Goblins

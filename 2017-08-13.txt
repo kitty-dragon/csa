@@ -1,0 +1,459 @@
+1. ticki                 - UR Delver
+2. Mundisv               - UB Ratlock
+3. Hellsau               - Esper Familiars
+4. qbturtle15            - UB Alchemy
+5. TheMagePower          - UR Delver
+6. Kzrds                 - Murasa Tron
+7. Grominou              - Affinity
+8. alfreditomelira       - Burn
+----- 4-2 group -----
+9. Marco.R               - UR Blitz
+10. PlunderBot           - Affinity
+11. EightSixEightSix     - UB Reanimator
+12. 3minem               - UR Delver
+13. Sturvedog            - Burn
+14. Sqlut                - UR Delver
+15. penips               - Stompy
+16. Yoshumotto           - Burn
+17. Gemmanite            - UR Blitz
+18. Payne_91             - Stompy
+19. BlackLotus0014       - Affinity
+20. greenprinny          - UW Tribe
+----- 3-3 group -----
+21. sakkra               - UB Alchemy
+22. overlordhellkite     - Affinity
+23. tedlyted             - UR Delver
+24. _Takeno_             - Affinity
+25. firstshot            - UG Turbofog
+26. _Holzi_              - Affinity
+27. Mathonical           - Naya Gond
+28. Xto2                 - UG Tron
+29. LeroyB               - UG Tron
+30. MakingSmartPlays     - Stompy
+31. Hrymfaxe             - Stompy
+32. janicestone          - Grixis Flicker
+33. mlovbo               - UR Puzzle
+34. Bielzito             - BUG Tron
+35. Searzist             - UR Delver
+36. sah-mat              - Affinity
+----- 2-X group -----
+37. swissbutter          - UR Delver
+38. Dillo17              - UR Puzzle
+39. andersongouvea       - Affinity
+40. arucki               - UB Delver
+41. Moesis               - UR Delver
+42. mikamimtg            - UB Teachings
+43. manyasone            - Affinity
+44. NoneOfYourBusiness   - Affinity
+45. hetare_ane           - UR Delver
+46. LuckyOnline          - Elves
+----- 1-X group -----
+47. Metallix_87          - UB Ratlock
+48. Yyber                - Burn
+49. tarkanmag            - UR Delver
+50. Altec_770            - RG Tokens
+51. Faellan              - Affinity
+52. deluxeicoff          - White Weenie
+53. AlwaysFace           - Affinity
+----- 0-X group -----
+54. AlessandroStanizzi   - Mono Blue Delver
+55. PenguinEngineer      - UG Tron
+56. Russkov14            - Slivers
+57. Whole                - Jeskai Kitty
+58. Bucknasty691989      - Affinity
+59. spartan117gottshall  - Naya Gond
+60. Salak                - Stompy
+
+##### Round 9 #####
+--- "prize split" followed by a concession without playing magic,
+--- recorded as 0-0-3 for statistical reasons
+1. ticki                 - 0-0-3 Mundisv
+2. Mundisv               - 0-0-3 ticki
+
+##### Round 8 #####
+1. ticki                 - 2-0 Hellsau
+2. Mundisv               - 2-0 qbturtle15
+3. Hellsau               - 0-2 ticki
+4. qbturtle15            - 0-2 Mundisv
+
+##### Round 7 #####
+1. ticki                 - 2-0 Kzrds
+2. Mundisv               - 2-1 alfreditomelira
+3. Hellsau               - 2-1 Grominou
+4. qbturtle15            - 2-0 TheMagePower
+5. TheMagePower          - 0-2 qbturtle15
+6. Kzrds                 - 0-2 ticki
+7. Grominou              - 1-2 Hellsau
+8. alfreditomelira       - 1-2 Mundisv
+
+##### Round 6 #####
+1. ticki                 - 2-1 Marco.R
+2. Mundisv               - 2-0 Hellsau
+3. Hellsau               - 0-2 Mundisv
+4. qbturtle15            - 2-1 PlunderBot
+5. TheMagePower          - 2-0 alfreditomelira
+6. Kzrds                 - 2-0 Mathonical
+7. Grominou              - 2-0 3minem
+8. alfreditomelira       - 0-2 TheMagePower
+9. Marco.R               - 1-2 ticki
+10. PlunderBot           - 1-2 qbturtle15
+11. EightSixEightSix     - 2-0 overlordhellkite
+12. 3minem               - 0-2 Grominou
+13. Sturvedog            - 2-0 LeroyB
+14. Sqlut                - 2-1 firstshot
+15. penips               - 2-1 _Takeno_
+16. Yoshumotto           - 2-1 _Holzi_
+17. Gemmanite            - 2-1 sakkra
+18. Payne_91             - 2-0 tedlyted
+19. BlackLotus0014       - 2-1 Xto2
+20. greenprinny          - 2-0 mlovbo
+21. sakkra               - 1-2 Gemmanite
+22. overlordhellkite     - 0-2 EightSixEightSix
+23. tedlyted             - 0-2 Payne_91
+24. _Takeno_             - 1-2 penips
+25. firstshot            - 1-2 Sqlut
+26. _Holzi_              - 1-2 Yoshumotto
+27. Mathonical           - 0-2 Kzrds
+28. Xto2                 - 1-2 BlackLotus0014
+29. LeroyB               - 0-2 Sturvedog
+30. MakingSmartPlays     - 2-0 arucki
+31. Hrymfaxe             - 2-0 mikamimtg
+32. janicestone          - 2-0 Dillo17
+33. mlovbo               - 0-2 greenprinny
+34. Bielzito             - 2-0 manyasone
+35. Searzist             - 2-1 NoneOfYourBusiness
+36. sah-mat              - 2-1 Moesis
+37. swissbutter          - 1-2 hetare_ane
+38. Dillo17              - 0-2 janicestone
+39. andersongouvea       - 
+40. arucki               - 0-2 MakingSmartPlays
+41. Moesis               - 1-2 sah-mat
+42. mikamimtg            - 0-2 Hrymfaxe
+43. manyasone            - 0-2 Bielzito
+44. NoneOfYourBusiness   - 1-2 Searzist
+45. hetare_ane           - 2-1 swissbutter
+46. LuckyOnline          - 2-1 Altec_770
+47. Metallix_87          - 
+48. Yyber                - 
+49. tarkanmag            - 
+50. Altec_770            - 1-2 LuckyOnline
+51. Faellan              - 
+52. deluxeicoff          - 
+53. AlwaysFace           - 
+54. AlessandroStanizzi   - 
+55. PenguinEngineer      - 
+56. Russkov14            - 
+57. Whole                - 
+58. Bucknasty691989      - 
+59. spartan117gottshall  - 
+60. Salak                - 
+
+##### Round 5 #####
+1. ticki                 - 2-1 BlackLotus0014
+2. Mundisv               - 2-0 alfreditomelira
+3. Hellsau               - 2-0 PlunderBot
+4. qbturtle15            - 2-1 tedlyted
+5. TheMagePower          - 2-1 Sqlut
+6. Kzrds                 - 2-1 firstshot
+7. Grominou              - 2-1 sakkra
+8. alfreditomelira       - 0-2 Mundisv
+9. Marco.R               - 2-1 Yoshumotto
+10. PlunderBot           - 0-2 Hellsau
+11. EightSixEightSix     - 2-0 Bielzito
+12. 3minem               - 2-1 overlordhellkite
+13. Sturvedog            - 2-1 Hrymfaxe
+14. Sqlut                - 1-2 TheMagePower
+15. penips               - 2-1 arucki
+16. Yoshumotto           - 1-2 Marco.R
+17. Gemmanite            - 2-0 Mathonical
+18. Payne_91             - 2-0 Moesis
+19. BlackLotus0014       - 1-2 ticki
+20. greenprinny          - 2-0 mikamimtg
+21. sakkra               - 1-2 Grominou
+22. overlordhellkite     - 1-2 3minem
+23. tedlyted             - 1-2 qbturtle15
+24. _Takeno_             - 2-1 sah-mat
+25. firstshot            - 1-2 Kzrds
+26. _Holzi_              - 2-1 janicestone
+27. Mathonical           - 0-2 Gemmanite
+28. Xto2                 - 2-1 MakingSmartPlays
+29. LeroyB               - 2-1 andersongouvea
+30. MakingSmartPlays     - 1-2 Xto2
+31. Hrymfaxe             - 1-2 Sturvedog
+32. janicestone          - 1-2 _Holzi_
+33. mlovbo               - 2-0 swissbutter
+34. Bielzito             - 0-2 EightSixEightSix
+35. Searzist             - 2-0 Altec_770
+36. sah-mat              - 1-2 _Takeno_
+37. swissbutter          - 0-2 mlovbo
+38. Dillo17              - 2-1 LuckyOnline
+39. andersongouvea       - 1-2 LeroyB
+40. arucki               - 1-2 penips
+41. Moesis               - 0-2 Payne_91
+42. mikamimtg            - 0-2 greenprinny
+43. manyasone            - 
+44. NoneOfYourBusiness   - 2-1 hetare_ane
+45. hetare_ane           - 1-2 NoneOfYourBusiness
+46. LuckyOnline          - 1-2 Dillo17
+47. Metallix_87          - 
+48. Yyber                - 
+49. tarkanmag            - 
+50. Altec_770            - 0-2 Searzist
+51. Faellan              - 
+52. deluxeicoff          - 
+53. AlwaysFace           - 
+54. AlessandroStanizzi   - 
+55. PenguinEngineer      - 
+56. Russkov14            - 
+57. Whole                - 
+58. Bucknasty691989      - 
+59. spartan117gottshall  - 
+60. Salak                - 
+
+##### Round 4 #####
+1. ticki                 - 1-2 PlunderBot
+2. Mundisv               - 2-1 overlordhellkite
+3. Hellsau               - 2-1 3minem
+4. qbturtle15            - 2-1 EightSixEightSix
+5. TheMagePower          - 2-1 Xto2
+6. Kzrds                 - 2-1 mlovbo
+7. Grominou              - 2-0 _Takeno_
+8. alfreditomelira       - 2-1 Marco.R
+9. Marco.R               - 1-2 alfreditomelira
+10. PlunderBot           - 2-1 ticki
+11. EightSixEightSix     - 1-2 qbturtle15
+12. 3minem               - 1-2 Hellsau
+13. Sturvedog            - 0-2 Mathonical
+14. Sqlut                - 2-0 arucki
+15. penips               - 2-0 Dillo17
+16. Yoshumotto           - 2-1 swissbutter
+17. Gemmanite            - 2-1 Altec_770
+18. Payne_91             - 1-2 firstshot
+19. BlackLotus0014       - 2-1 _Holzi_
+20. greenprinny          - 2-1 hetare_ane
+21. sakkra               - 2-1 Hrymfaxe
+22. overlordhellkite     - 1-2 Mundisv
+23. tedlyted             - 2-1 MakingSmartPlays
+24. _Takeno_             - 0-2 Grominou
+25. firstshot            - 2-1 Payne_91
+26. _Holzi_              - 1-2 BlackLotus0014
+27. Mathonical           - 2-0 Sturvedog
+28. Xto2                 - 1-2 TheMagePower
+29. LeroyB               - 2-0 AlwaysFace
+30. MakingSmartPlays     - 1-2 tedlyted
+31. Hrymfaxe             - 1-2 sakkra
+32. janicestone          - 2-0 Metallix_87
+33. mlovbo               - 1-2 Kzrds
+34. Bielzito             - 2-1 Faellan
+35. Searzist             - 1-2 Moesis
+36. sah-mat              - 2-1 tarkanmag
+37. swissbutter          - 1-2 Yoshumotto
+38. Dillo17              - 0-2 penips
+39. andersongouvea       - 2-1 deluxeicoff
+40. arucki               - 0-2 Sqlut
+41. Moesis               - 2-1 Searzist
+42. mikamimtg            - 2-1 LuckyOnline
+43. manyasone            - 2-0 spartan117gottshall
+44. NoneOfYourBusiness   - 2-1 Salak
+45. hetare_ane           - 1-2 greenprinny
+46. LuckyOnline          - 1-2 mikamimtg
+47. Metallix_87          - 0-2 janicestone
+48. Yyber                - 
+49. tarkanmag            - 1-2 sah-mat
+50. Altec_770            - 1-2 Gemmanite
+51. Faellan              - 1-2 Bielzito
+52. deluxeicoff          - 1-2 andersongouvea
+53. AlwaysFace           - 0-2 LeroyB
+54. AlessandroStanizzi   - 
+55. PenguinEngineer      - 
+56. Russkov14            - 
+57. Whole                - 
+58. Bucknasty691989      - 
+59. spartan117gottshall  - 0-2 manyasone
+60. Salak                - 1-2 NoneOfYourBusiness
+
+##### Round 3 #####
+1. ticki                 - 2-1 _Takeno_
+2. Mundisv               - 2-0 Dillo17
+3. Hellsau               - 2-1 Hrymfaxe
+4. qbturtle15            - 2-1 tarkanmag
+5. TheMagePower          - 2-0 Yyber
+6. Kzrds                 - 2-0 andersongouvea
+7. Grominou              - 2-1 LeroyB
+8. alfreditomelira       - 2-1 tedlyted
+9. Marco.R               - 2-1 sakkra
+10. PlunderBot           - 2-1 swissbutter
+11. EightSixEightSix     - 2-0 penips
+12. 3minem               - 2-0 firstshot
+13. Sturvedog            - 2-1 janicestone
+14. Sqlut                - 2-0 PenguinEngineer
+15. penips               - 0-2 EightSixEightSix
+16. Yoshumotto           - 2-1 Bielzito
+17. Gemmanite            - 2-0 NoneOfYourBusiness
+18. Payne_91             - 2-1 Searzist
+19. BlackLotus0014       - 2-1 Metallix_87
+20. greenprinny          - 1-2 _Holzi_
+21. sakkra               - 1-2 Marco.R
+22. overlordhellkite     - 2-1 MakingSmartPlays
+23. tedlyted             - 1-2 alfreditomelira
+24. _Takeno_             - 1-2 ticki
+25. firstshot            - 0-2 3minem
+26. _Holzi_              - 2-1 greenprinny
+27. Mathonical           - 2-0 deluxeicoff
+28. Xto2                 - 2-0 Moesis
+29. LeroyB               - 1-2 Grominou
+30. MakingSmartPlays     - 1-2 overlordhellkite
+31. Hrymfaxe             - 1-2 Hellsau
+32. janicestone          - 1-2 Sturvedog
+33. mlovbo               - 2-1 Altec_770
+34. Bielzito             - 1-2 Yoshumotto
+35. Searzist             - 1-2 Payne_91
+36. sah-mat              - 2-0 Russkov14
+37. swissbutter          - 1-2 PlunderBot
+38. Dillo17              - 0-2 Mundisv
+39. andersongouvea       - 0-2 Kzrds
+40. arucki               - 2-0 Faellan
+41. Moesis               - 0-2 Xto2
+42. mikamimtg            - 2-1 spartan117gottshall
+43. manyasone            - 1-2 AlwaysFace
+44. NoneOfYourBusiness   - 0-2 Gemmanite
+45. hetare_ane           - 1-0 Bucknasty691989
+46. LuckyOnline          - 2-0 Salak
+47. Metallix_87          - 1-2 BlackLotus0014
+48. Yyber                - 0-2 TheMagePower
+49. tarkanmag            - 1-2 qbturtle15
+50. Altec_770            - 1-2 mlovbo
+51. Faellan              - 0-2 arucki
+52. deluxeicoff          - 0-2 Mathonical
+53. AlwaysFace           - 2-1 manyasone
+54. AlessandroStanizzi   - 
+55. PenguinEngineer      - 0-2 Sqlut
+56. Russkov14            - 0-2 sah-mat
+57. Whole                - 
+58. Bucknasty691989      - 0-1 hetare_ane
+59. spartan117gottshall  - 1-2 mikamimtg
+60. Salak                - 0-2 LuckyOnline
+
+##### Round 2 #####
+1. ticki                 - 2-1 Sqlut
+2. Mundisv               - 2-1 Metallix_87
+3. Hellsau               - 2-1 Sturvedog
+4. qbturtle15            - 0-2 alfreditomelira
+5. TheMagePower          - 1-2 MakingSmartPlays
+6. Kzrds                 - 2-1 AlessandroStanizzi
+7. Grominou              - 2-0 PenguinEngineer
+8. alfreditomelira       - 2-0 qbturtle15
+9. Marco.R               - 2-1 EightSixEightSix
+10. PlunderBot           - 2-1 andersongouvea
+11. EightSixEightSix     - 1-2 Marco.R
+12. 3minem               - 2-0 _Holzi_
+13. Sturvedog            - 1-2 Hellsau
+14. Sqlut                - 1-2 ticki
+15. penips               - 2-0 sah-mat
+16. Yoshumotto           - 2-0 Gemmanite
+17. Gemmanite            - 0-2 Yoshumotto
+18. Payne_91             - 2-0 Russkov14
+19. BlackLotus0014       - 1-2 tedlyted
+20. greenprinny          - 1-2 swissbutter
+21. sakkra               - 2-0 Xto2
+22. overlordhellkite     - 2-1 Dillo17
+23. tedlyted             - 2-1 BlackLotus0014
+24. _Takeno_             - 2-1 LeroyB
+25. firstshot            - 2-0 Moesis
+26. _Holzi_              - 0-2 3minem
+27. Mathonical           - 2-1 mikamimtg
+28. Xto2                 - 0-2 sakkra
+29. LeroyB               - 1-2 _Takeno_
+30. MakingSmartPlays     - 2-1 TheMagePower
+31. Hrymfaxe             - 2-0 deluxeicoff
+32. janicestone          - 2-1 Whole
+33. mlovbo               - 2-1 Bucknasty691989
+34. Bielzito             - 2-1 Salak
+35. Searzist             - 2-0 manyasone
+36. sah-mat              - 0-2 penips
+37. swissbutter          - 2-1 greenprinny
+38. Dillo17              - 1-2 overlordhellkite
+39. andersongouvea       - 1-2 PlunderBot
+40. arucki               - 2-1 NoneOfYourBusiness
+41. Moesis               - 0-2 firstshot
+42. mikamimtg            - 1-2 Mathonical
+43. manyasone            - 0-2 Searzist
+44. NoneOfYourBusiness   - 1-2 arucki
+45. hetare_ane           - 1-2 Altec_770
+46. LuckyOnline          - 0-2 Yyber
+47. Metallix_87          - 1-2 Mundisv
+48. Yyber                - 2-0 LuckyOnline
+49. tarkanmag            - 2-1 AlwaysFace
+50. Altec_770            - 2-1 hetare_ane
+51. Faellan              - 2-0 spartan117gottshall
+52. deluxeicoff          - 0-2 Hrymfaxe
+53. AlwaysFace           - 1-2 tarkanmag
+54. AlessandroStanizzi   - 1-2 Kzrds
+55. PenguinEngineer      - 0-2 Grominou
+56. Russkov14            - 0-2 Payne_91
+57. Whole                - 1-2 janicestone
+58. Bucknasty691989      - 1-2 mlovbo
+59. spartan117gottshall  - 0-2 Faellan
+60. Salak                - 1-2 Bielzito
+
+##### Round 1 #####
+1. ticki                 - 2-1 Gemmanite
+2. Mundisv               - 2-0 penips
+3. Hellsau               - 2-1 janicestone
+4. qbturtle15            - 2-1 Russkov14
+5. TheMagePower          - 2-1 Payne_91
+6. Kzrds                 - 0-2 greenprinny
+7. Grominou              - 1-2 swissbutter
+8. alfreditomelira       - 2-1 Altec_770
+9. Marco.R               - 2-0 manyasone
+10. PlunderBot           - 2-1 Faellan
+11. EightSixEightSix     - 2-0 arucki
+12. 3minem               - 2-1 LuckyOnline
+13. Sturvedog            - 2-0 Yoshumotto
+14. Sqlut                - 2-0 Mathonical
+15. penips               - 0-2 Mundisv
+16. Yoshumotto           - 0-2 Sturvedog
+17. Gemmanite            - 1-2 ticki
+18. Payne_91             - 1-2 TheMagePower
+19. BlackLotus0014       - 2-1 spartan117gottshall
+20. greenprinny          - 2-0 Kzrds
+21. sakkra               - 2-0 mlovbo
+22. overlordhellkite     - 2-0 Searzist
+23. tedlyted             - 2-0 mikamimtg
+24. _Takeno_             - 2-1 AlessandroStanizzi
+25. firstshot            - 2-1 tarkanmag
+26. _Holzi_              - 2-0 Whole
+27. Mathonical           - 0-2 Sqlut
+28. Xto2                 - 2-1 Yyber
+29. LeroyB               - 2-1 hetare_ane
+30. MakingSmartPlays     - 2-0 Bucknasty691989
+31. Hrymfaxe             - 2-1 PenguinEngineer
+32. janicestone          - 1-2 Hellsau
+33. mlovbo               - 0-2 sakkra
+34. Bielzito             - 1-2 Moesis
+35. Searzist             - 0-2 overlordhellkite
+36. sah-mat              - 1-2 Dillo17
+37. swissbutter          - 2-1 Grominou
+38. Dillo17              - 2-1 sah-mat
+39. andersongouvea       - 2-1 NoneOfYourBusiness
+40. arucki               - 0-2 EightSixEightSix
+41. Moesis               - 2-1 Bielzito
+42. mikamimtg            - 0-2 tedlyted
+43. manyasone            - 0-2 Marco.R
+44. NoneOfYourBusiness   - 1-2 andersongouvea
+45. hetare_ane           - 1-2 LeroyB
+46. LuckyOnline          - 1-2 3minem
+47. Metallix_87          - 2-1 Salak
+48. Yyber                - 1-2 Xto2
+49. tarkanmag            - 1-2 firstshot
+50. Altec_770            - 1-2 alfreditomelira
+51. Faellan              - 1-2 PlunderBot
+52. deluxeicoff          - 2-0 AlwaysFace
+53. AlwaysFace           - 0-2 deluxeicoff
+54. AlessandroStanizzi   - 1-2 _Takeno_
+55. PenguinEngineer      - 1-2 Hrymfaxe
+56. Russkov14            - 1-2 qbturtle15
+57. Whole                - 0-2 _Holzi_
+58. Bucknasty691989      - 0-2 MakingSmartPlays
+59. spartan117gottshall  - 1-2 BlackLotus0014
+60. Salak                - 1-2 Metallix_87

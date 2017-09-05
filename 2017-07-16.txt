@@ -1,0 +1,430 @@
+1. mlovbo - Izzet Puzzle
+2. 3minem - Izzet Delver
+3. Hellsau - Esper Familiars
+4. i_b_TRUE - Kitty Monarch
+5. Mundisv - Dimir Flicker
+6. kungfutrees - Dimir Exhume
+7. oyola - Delver
+8. redler - Izzet Delver
+9. Mathonical - Midnight Gond
+10. tarkanmag - Dimir Alchemy
+11. Ichisuka - Izzet Delver
+12. Rindsgerd - Dimir Angler
+13. TheMagePower - Izzet Delver
+14. pproteus - Stompy
+15. TaotheNinja - Dinrova Tron
+16. Sixes - Dimir Flicker
+17. HolyShamgar - Izzet Delver
+18. Petros_MTG - WB Pestilence
+19. kanister - Affinity
+20. chenstein9 - Stompy
+21. pinato - RUG Tron
+22. greenprinny - Inside Out
+23. Rico0389 - Dimir Angler
+24. _Tia93_ - Delver
+25. Mr_Steal_Yo_Girl - Delver
+26. STLZACH - Dimir Exhume
+27. Toastmachine - Eye Candy
+28. Jiimy - Affinity
+29. LuckyOnline - Elves
+30. pauljwinsk - MBC
+31. BERNASTORRES - Delver
+32. Fat Fingers - Grixis Teachings
+----- ratings below are unknown -----
+0. 420dragon - Kitty
+0. Aliau13 - Affinity
+0. AndyCreighton - Slivers
+0. Bielzito - Affinity
+0. CounterTopGarchomp - Dimir Flicker
+0. deluxeicoff - Inside Out
+0. DoubleDrain - Burn
+0. EightSixEightSix - Dimir Alchemy
+0. GeneralSmallChild - Dimir Teachings
+0. headshot93 - MBC
+0. hetare_ane - Murasa Tron
+0. Hrymfaxe - Stompy
+0. Ja2zPL - Kitty
+0. Kombo11408 - Stompy
+0. Lafsen - Hexproof
+0. Lager_in_the_Wild - Dimir Teachings
+0. Landocards - RDW
+0. MakingSmartPlays - Izzet Delver
+0. MARI1962 - Affinity
+0. medvedev - Burn
+0. Pantaberde - Kitty
+0. pokerswizard - Burn
+0. PTarts2win - Affinity
+0. Sarusta - Dimir Flicker
+0. ScaughtyO - Eye Candy
+0. seanhawes - Izzet Delver
+0. spartan117gottshall - WB Pestilence
+0. Spokes - Elves
+0. TheStoneColdNuts - Stompy
+0. TMPWDobs - Dimir Flicker
+0. Watchwolf92 - Dimir Teachings
+
+##### Round 9 #####
+0. 3minem - 1-2 mlovbo
+0. mlovbo - 2-1 3minem
+
+##### Round 8 #####
+0. 3minem - 2-1 Hellsau
+0. Hellsau - 1-2 3minem
+0. i_b_TRUE - 0-2 mlovbo
+0. mlovbo - 2-0 i_b_TRUE
+
+##### Round 7 #####
+0. 3minem - 2-0 oyola
+0. Hellsau - 2-0 kungfutrees
+0. Mundisv - 1-2 i_b_TRUE
+0. i_b_TRUE - 2-1 Mundisv
+0. kungfutrees - 0-2 Hellsau
+0. mlovbo - 2-1 redler
+0. oyola - 0-2 3minem
+0. redler - 1-2 mlovbo
+
+##### Round 6 #####
+0. 3minem - 2-0 Rindsgerd
+0. Aliau13 - 1-2 pokerswizard
+0. AndyCreighton - 0-2 Hrymfaxe
+0. BERNASTORRES - 2-1 Ja2zPL
+0. Bielzito - 0-2 _Tia93_
+0. CounterTopGarchomp - 1-2 Lafsen
+0. Fat Fingers - 1-2 pinato
+0. GeneralSmallChild - 1-2 deluxeicoff
+0. Hellsau - 0-2 mlovbo
+0. HolyShamgar - 2-1 Rico0389
+0. Hrymfaxe - 2-0 AndyCreighton
+0. Ichisuka - 1-2 i_b_TRUE
+0. Ja2zPL - 1-2 BERNASTORRES
+0. Jiimy - 0-2 chenstein9
+0. Lafsen - 2-1 CounterTopGarchomp
+0. Landocards - 1-2 kanister
+0. LuckyOnline - 1-2 Petros_MTG
+0. MARI1962 - 1-2 TMPWDobs
+0. MakingSmartPlays - 0-2 TaotheNinja
+0. Mathonical - 2-1 Mr_Steal_Yo_Girl
+0. Mr_Steal_Yo_Girl - 1-2 Mathonical
+0. Mundisv - 2-0 redler
+0. Petros_MTG - 2-1 LuckyOnline
+0. Rico0389 - 1-2 HolyShamgar
+0. Rindsgerd - 0-2 3minem
+0. STLZACH - 1-2 TheMagePower
+0. Sixes - 2-0 Toastmachine
+0. TMPWDobs - 2-1 MARI1962
+0. TaotheNinja - 2-0 MakingSmartPlays
+0. TheMagePower - 2-1 STLZACH
+0. Toastmachine - 0-2 Sixes
+0. _Tia93_ - 2-0 Bielzito
+0. chenstein9 - 2-0 Jiimy
+0. deluxeicoff - 2-1 GeneralSmallChild
+0. greenprinny - 2-0 pauljwinsk
+0. hetare_ane - 2-0 medvedev
+0. i_b_TRUE - 2-1 Ichisuka
+0. kanister - 2-1 Landocards
+0. kungfutrees - 2-1 tarkanmag
+0. medvedev - 0-2 hetare_ane
+0. mlovbo - 2-0 Hellsau
+0. oyola - 2-1 pproteus
+0. pauljwinsk - 0-2 greenprinny
+0. pinato - 2-1 Fat Fingers
+0. pokerswizard - 2-1 Aliau13
+0. pproteus - 1-2 oyola
+0. redler - 0-2 Mundisv
+0. tarkanmag - 1-2 kungfutrees
+
+##### Round 5 #####
+0. 3minem - 2-0 Mr_Steal_Yo_Girl
+0. Aliau13 - 0-2 pauljwinsk
+0. AndyCreighton - 2-0 Pantaberde
+0. BERNASTORRES - 0-2 TheMagePower
+0. Bielzito - 2-0 Watchwolf92
+0. CounterTopGarchomp - 1-2 greenprinny
+0. Fat Fingers - 2-0 Ja2zPL
+0. GeneralSmallChild - 0-2 pinato
+0. Hellsau - 2-0 Mundisv
+0. HolyShamgar - 0-2 Ichisuka
+0. Hrymfaxe - 1-2 Lafsen
+0. Ichisuka - 2-0 HolyShamgar
+0. Ja2zPL - 0-2 Fat Fingers
+0. Jiimy - 1-2 tarkanmag
+0. Lafsen - 2-1 Hrymfaxe
+0. LuckyOnline - 1-2 pproteus
+0. MARI1962 - 0-2 TaotheNinja
+0. MakingSmartPlays - 2-0 deluxeicoff
+0. Mathonical - 1-2 oyola
+0. Mr_Steal_Yo_Girl - 0-2 3minem
+0. Mundisv - 0-2 Hellsau
+0. Pantaberde - 0-2 AndyCreighton
+0. Petros_MTG - 2-1 TMPWDobs
+0. Rico0389 - 0-2 Rindsgerd
+0. Rindsgerd - 2-0 Rico0389
+0. STLZACH - 2-0 pokerswizard
+0. Sarusta - 1-2 hetare_ane
+0. Sixes - 0-2 redler
+0. TMPWDobs - 1-2 Petros_MTG
+0. TaotheNinja - 2-0 MARI1962
+0. TheMagePower - 2-0 BERNASTORRES
+0. Toastmachine - 1-2 kungfutrees
+0. Watchwolf92 - 0-2 Bielzito
+0. _Tia93_ - 0-2 chenstein9
+0. chenstein9 - 2-0 _Tia93_
+0. deluxeicoff - 0-2 MakingSmartPlays
+0. greenprinny - 2-1 CounterTopGarchomp
+0. hetare_ane - 2-1 Sarusta
+0. i_b_TRUE - 0-2 mlovbo
+0. kanister - 2-0 medvedev
+0. kungfutrees - 2-1 Toastmachine
+0. medvedev - 0-2 kanister
+0. mlovbo - 2-0 i_b_TRUE
+0. oyola - 2-1 Mathonical
+0. pauljwinsk - 2-0 Aliau13
+0. pinato - 2-0 GeneralSmallChild
+0. pokerswizard - 0-2 STLZACH
+0. pproteus - 2-1 LuckyOnline
+0. redler - 2-0 Sixes
+0. tarkanmag - 2-1 Jiimy
+
+##### Round 4 #####
+0. 3minem - 2-1 TaotheNinja
+0. Aliau13 - 2-0 Bielzito
+0. AndyCreighton - 0-2 TheMagePower
+0. BERNASTORRES - 1-2 Jiimy
+0. Bielzito - 0-2 Aliau13
+0. CounterTopGarchomp - 0-2 Rindsgerd
+0. DoubleDrain - 1-2 chenstein9
+0. EightSixEightSix - 2-0 spartan117gottshall
+0. Fat Fingers - 0-2 HolyShamgar
+0. GeneralSmallChild - 2-1 Sarusta
+0. Hellsau - 2-0 tarkanmag
+0. HolyShamgar - 2-0 Fat Fingers
+0. Hrymfaxe - 1-2 MakingSmartPlays
+0. Ichisuka - 2-0 Petros_MTG
+0. Ja2zPL - 2-0 Pantaberde
+0. Jiimy - 2-1 BERNASTORRES
+0. Lafsen - 1-2 STLZACH
+0. Landocards - 1-2 deluxeicoff
+0. LuckyOnline - 2-0 _Tia93_
+0. MARI1962 - 2-0 Watchwolf92
+0. MakingSmartPlays - 2-1 Hrymfaxe
+0. Mathonical - 0-2 mlovbo
+0. Mr_Steal_Yo_Girl - 2-0 pinato
+0. Mundisv - 2-0 kungfutrees
+0. Pantaberde - 0-2 Ja2zPL
+0. Petros_MTG - 0-2 Ichisuka
+0. Rico0389 - 2-1 medvedev
+0. Rindsgerd - 2-0 CounterTopGarchomp
+0. STLZACH - 2-1 Lafsen
+0. Sarusta - 1-2 GeneralSmallChild
+0. Sixes - 2-1 greenprinny
+0. TMPWDobs - 1-2 pproteus
+0. TaotheNinja - 1-2 3minem
+0. TheMagePower - 2-0 AndyCreighton
+0. Toastmachine - 2-0 kanister
+0. Watchwolf92 - 0-2 MARI1962
+0. _Tia93_ - 0-2 LuckyOnline
+0. chenstein9 - 2-1 DoubleDrain
+0. deluxeicoff - 2-1 Landocards
+0. greenprinny - 1-2 Sixes
+0. hetare_ane - 1-2 pokerswizard
+0. i_b_TRUE - 2-1 redler
+0. kanister - 0-2 Toastmachine
+0. kungfutrees - 0-2 Mundisv
+0. medvedev - 1-2 Rico0389
+0. mlovbo - 2-0 Mathonical
+0. oyola - 2-1 pauljwinsk
+0. pauljwinsk - 1-2 oyola
+0. pinato - 0-2 Mr_Steal_Yo_Girl
+0. pokerswizard - 2-1 hetare_ane
+0. pproteus - 2-1 TMPWDobs
+0. redler - 1-2 i_b_TRUE
+0. spartan117gottshall - 0-2 EightSixEightSix
+0. tarkanmag - 0-2 Hellsau
+
+##### Round 3 #####
+0. 3minem - 1-2 Hellsau
+0. Aliau13 - 1-2 greenprinny
+0. AndyCreighton - 0-2 Sixes
+0. BERNASTORRES - 2-0 chenstein9
+0. Bielzito - 2-1 Kombo11408
+0. CounterTopGarchomp - 2-1 hetare_ane
+0. DoubleDrain - 1-2 pproteus
+0. EightSixEightSix - 0-2 pokerswizard
+0. Fat Fingers - 2-0 Lafsen
+0. GeneralSmallChild - 1-2 Mr_Steal_Yo_Girl
+0. Hellsau - 2-1 3minem
+0. HolyShamgar - 0-2 Mathonical
+0. Hrymfaxe - 1-2 LuckyOnline
+0. Ichisuka - 0-2 Mundisv
+0. Ja2zPL - 2-1 Lager_in_the_Wild
+0. Jiimy - 1-2 i_b_TRUE
+0. Kombo11408 - 1-2 Bielzito
+0. Lafsen - 0-2 Fat Fingers
+0. Lager_in_the_Wild - 1-2 Ja2zPL
+0. Landocards - 1-2 Toastmachine
+0. LuckyOnline - 2-1 Hrymfaxe
+0. MARI1962 - 1-2 pauljwinsk
+0. MakingSmartPlays - 1-2 pinato
+0. Mathonical - 2-0 HolyShamgar
+0. Mr_Steal_Yo_Girl - 2-1 GeneralSmallChild
+0. Mundisv - 2-0 Ichisuka
+0. PTarts2win - 1-2 medvedev
+0. Pantaberde - 0-2 TaotheNinja
+0. Petros_MTG - 1-2 tarkanmag
+0. Rico0389 - 1-2 mlovbo
+0. Rindsgerd - 1-2 kungfutrees
+0. STLZACH - 2-1 spartan117gottshall
+0. Sarusta - 0-2 TMPWDobs
+0. Sixes - 2-0 AndyCreighton
+0. TMPWDobs - 2-0 Sarusta
+0. TaotheNinja - 2-0 Pantaberde
+0. TheMagePower - 0-2 _Tia93_
+0. TheStoneColdNuts - 0-2 deluxeicoff
+0. Toastmachine - 2-1 Landocards
+0. Watchwolf92 - 0-2 oyola
+0. _Tia93_ - 2-0 TheMagePower
+0. chenstein9 - 0-2 BERNASTORRES
+0. deluxeicoff - 2-0 TheStoneColdNuts
+0. greenprinny - 2-1 Aliau13
+0. hetare_ane - 1-2 CounterTopGarchomp
+0. i_b_TRUE - 2-1 Jiimy
+0. kanister - 0-2 redler
+0. kungfutrees - 2-1 Rindsgerd
+0. medvedev - 2-1 PTarts2win
+0. mlovbo - 2-1 Rico0389
+0. oyola - 2-0 Watchwolf92
+0. pauljwinsk - 2-1 MARI1962
+0. pinato - 2-1 MakingSmartPlays
+0. pokerswizard - 2-0 EightSixEightSix
+0. pproteus - 2-1 DoubleDrain
+0. redler - 2-0 kanister
+0. spartan117gottshall - 1-2 STLZACH
+0. tarkanmag - 2-1 Petros_MTG
+
+##### Round 2 #####
+0. 3minem - 2-0 oyola
+0. 420dragon - 0-2 pinato
+0. Aliau13 - 0-2 Mundisv
+0. AndyCreighton - 2-1 deluxeicoff
+0. BERNASTORRES - 1-2 Petros_MTG
+0. Bielzito - 1-2 Fat Fingers
+0. CounterTopGarchomp - 2-1 Spokes
+0. DoubleDrain - 1-2 HolyShamgar
+0. EightSixEightSix - 1-2 Landocards
+0. Fat Fingers - 2-1 Bielzito
+0. GeneralSmallChild - 0-2 Rindsgerd
+0. Hellsau - 2-1 PTarts2win
+0. HolyShamgar - 2-1 DoubleDrain
+0. Hrymfaxe - 1-2 kungfutrees
+0. Ichisuka - 2-0 Pantaberde
+0. Ja2zPL - 1-2 medvedev
+0. Jiimy - 2-1 Sarusta
+0. Kombo11408 - 0-2 Toastmachine
+0. Lafsen - 2-0 TheStoneColdNuts
+0. Lager_in_the_Wild - 0-2 Watchwolf92
+0. Landocards - 2-1 EightSixEightSix
+0. LuckyOnline - 1-2 tarkanmag
+0. MARI1962 - 2-1 pokerswizard
+0. MakingSmartPlays - 0-2 Rico0389
+0. Mathonical - 2-1 pauljwinsk
+0. Mr_Steal_Yo_Girl - 0-2 redler
+0. Mundisv - 2-0 Aliau13
+0. PTarts2win - 1-2 Hellsau
+0. Pantaberde - 0-2 Ichisuka
+0. Petros_MTG - 2-1 BERNASTORRES
+0. Rico0389 - 2-0 MakingSmartPlays
+0. Rindsgerd - 2-0 GeneralSmallChild
+0. STLZACH - 1-2 TaotheNinja
+0. Sarusta - 1-2 Jiimy
+0. ScaughtyO - 1-2 greenprinny
+0. Sixes - 2-0 seanhawes
+0. Spokes - 1-2 CounterTopGarchomp
+0. TMPWDobs - 2-0 headshot93
+0. TaotheNinja - 2-1 STLZACH
+0. TheMagePower - 1-2 i_b_TRUE
+0. TheStoneColdNuts - 0-2 Lafsen
+0. Toastmachine - 2-0 Kombo11408
+0. Watchwolf92 - 2-0 Lager_in_the_Wild
+0. _Tia93_ - 0-2 mlovbo
+0. deluxeicoff - 1-2 AndyCreighton
+0. greenprinny - 2-1 ScaughtyO
+0. headshot93 - 0-2 TMPWDobs
+0. hetare_ane - 0-2 kanister
+0. i_b_TRUE - 2-1 TheMagePower
+0. kanister - 2-0 hetare_ane
+0. kungfutrees - 2-1 Hrymfaxe
+0. medvedev - 2-1 Ja2zPL
+0. mlovbo - 2-0 _Tia93_
+0. oyola - 0-2 3minem
+0. pauljwinsk - 1-2 Mathonical
+0. pinato - 2-0 420dragon
+0. pokerswizard - 1-2 MARI1962
+0. pproteus - 2-0 spartan117gottshall
+0. redler - 2-0 Mr_Steal_Yo_Girl
+0. seanhawes - 0-2 Sixes
+0. spartan117gottshall - 0-2 pproteus
+0. tarkanmag - 2-1 LuckyOnline
+
+##### Round 1 #####
+0. 3minem - 2-1 pproteus
+0. 420dragon - 0-2 Petros_MTG
+0. Aliau13 - 2-1 AndyCreighton
+0. AndyCreighton - 1-2 Aliau13
+0. BERNASTORRES - 2-1 Landocards
+0. Bielzito - 1-2 Mundisv
+0. CounterTopGarchomp - 1-2 Hellsau
+0. DoubleDrain - 2-0 seanhawes
+0. EightSixEightSix - 0-2 Sarusta
+0. Fat Fingers - 0-2 tarkanmag
+0. GeneralSmallChild - 2-0 ScaughtyO
+0. Hellsau - 2-1 CounterTopGarchomp
+0. HolyShamgar - 2-0 pokerswizard
+0. Hrymfaxe - 2-0 greenprinny
+0. Ichisuka - 2-1 Spokes
+0. Ja2zPL - 0-2 LuckyOnline
+0. Jiimy - 2-0 headshot93
+0. Kombo11408 - 1-2 PTarts2win
+0. Lafsen - 1-2 MakingSmartPlays
+0. Lager_in_the_Wild - 1-2 mlovbo
+0. Landocards - 1-2 BERNASTORRES
+0. LuckyOnline - 2-0 Ja2zPL
+0. MARI1962 - 0-2 Pantaberde
+0. MakingSmartPlays - 2-1 Lafsen
+0. Mathonical - 2-0 STLZACH
+0. Mr_Steal_Yo_Girl - 2-0 Watchwolf92
+0. Mundisv - 2-1 Bielzito
+0. PTarts2win - 2-1 Kombo11408
+0. Pantaberde - 2-0 MARI1962
+0. Petros_MTG - 2-0 420dragon
+0. Rico0389 - 2-0 Toastmachine
+0. Rindsgerd - 2-1 pinato
+0. STLZACH - 0-2 Mathonical
+0. Sarusta - 2-0 EightSixEightSix
+0. ScaughtyO - 0-2 GeneralSmallChild
+0. Sixes - 0-2 TheMagePower
+0. Spokes - 1-2 Ichisuka
+0. TMPWDobs - 0-2 hetare_ane
+0. TaotheNinja - 0-2 redler
+0. TheMagePower - 2-0 Sixes
+0. TheStoneColdNuts - 1-2 i_b_TRUE
+0. Toastmachine - 0-2 Rico0389
+0. Watchwolf92 - 0-2 Mr_Steal_Yo_Girl
+0. _Tia93_ - 2-0 spartan117gottshall
+0. chenstein9 - 0-2 kanister
+0. deluxeicoff - 0-2 kungfutrees
+0. greenprinny - 0-2 Hrymfaxe
+0. headshot93 - 0-2 Jiimy
+0. hetare_ane - 2-0 TMPWDobs
+0. i_b_TRUE - 2-1 TheStoneColdNuts
+0. kanister - 2-0 chenstein9
+0. kungfutrees - 2-0 deluxeicoff
+0. medvedev - 1-2 oyola
+0. mlovbo - 2-1 Lager_in_the_Wild
+0. oyola - 2-1 medvedev
+0. pinato - 1-2 Rindsgerd
+0. pokerswizard - 0-2 HolyShamgar
+0. pproteus - 1-2 3minem
+0. redler - 2-0 TaotheNinja
+0. seanhawes - 0-2 DoubleDrain
+0. spartan117gottshall - 0-2 _Tia93_
+0. tarkanmag - 2-0 Fat Fingers

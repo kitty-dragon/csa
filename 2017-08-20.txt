@@ -1,0 +1,576 @@
+1. Doctor_Wyrm           - Stompy
+2. overlordhellkite      - Affinity
+3. a_p_s                 - Stompy
+4. billster47            - Mono Blue Delver
+5. blaze66               - UW Tribe
+6. mathguy31415          - UR Delver
+7. HolyShamgar           - RW Kitty Monarch
+8. BlackLotus0014        - UR Delver
+----- 5-2 -----
+9. Xto2                  - UG Tron
+10. coolman2347          - Stompy
+11. LazZoO               - UR Thermo-Archer
+12. Brivenix             - Mono Blue Delver
+13. pproteus             - Stompy
+14. azoriusftw           - Mono Blue Delver
+15. TheMagePower         - UR Delver
+----- 4-3 -----
+16. Mandark              - UB Alchemy
+17. Toastmachine         - UR Blitz
+18. BERNASTORRES         - Bogles
+19. _sameold             - UR Delver
+20. tedlyted             - UR Puzzle
+21. Mathonical           - UG Land Destruction
+22. _Holzi_              - Affinity
+23. BEAFy                - Mono Blue Arcane
+24. sakkra               - UB Alchemy
+25. qbturtle15           - UB Alchemy
+26. DDevitt              - RW Kitty Tokens
+27. Sqlut                - UR Delver
+28. navi_stabber         - RDW
+29. deluxeicoff          - UW Tribe
+30. EightSixEightSix     - UB Reanimator
+31. Hrymfaxe             - Stompy
+----- 3-4 group -----
+32. nagibatel            - Dinrova Tron
+33. _Jodah               - Burn
+34. Grominou             - Affinity
+35. SamuelBeckett        - UB Reanimator
+36. Oderus Urungus       - UR Blitz
+37. DomoArigatoR         - UR Delver
+38. claudiocruz          - UR Delver
+39. greenprinny          - UW Tribe
+40. tarkanmag            - UR Delver
+41. mtgonick93           - RDW
+42. PlunderBot           - UB Ratlock
+43. Joao_Dannemann       - Burn
+----- 2-X group -----
+44. Hellsau              - Esper Familiars
+45. lampalot             - Burn
+46. Judahbenhur          - Elves
+47. Mundisv              - UB Ratlock
+48. F2104                - UB Alchemy
+49. FoundryStreetDenizen - UB Alchemy
+50. Servemais            - Affinity
+51. penips               - Stompy
+52. FranMtg              - Slivers
+----- 1-X group -----
+53. solace               - MBC
+54. Shorsh               - Burn
+55. JasenBS              - Affinity
+56. NoneOfYourBusiness   - Affinity
+57. Teia                 - UR Delver
+58. Prison_Warden        - Elves
+59. rufithweb            - Murasa Tron
+----- 0-X group -----
+60. Jstimec1             - UR Delver
+61. AlwaysFace           - Affinity
+62. Wazman2              - UB Alchemy
+63. mlovbo               - UG Tron
+64. TonyMontana          - Affinity
+65. karatedom            - Burn
+66. Yoshumotto           - Burn
+67. Iltahuikaisu         - Elves
+
+##### Round 10 #####
+1. Doctor_Wyrm           - 2-1 overlordhellkite
+2. overlordhellkite      - 1-2 Doctor_Wyrm
+
+##### Round 9 #####
+1. Doctor_Wyrm           - 2-0 a_p_s
+2. overlordhellkite      - 2-1 billster47
+3. a_p_s                 - 0-2 Doctor_Wyrm
+4. billster47            - 1-2 overlordhellkite
+
+##### Round 8 #####
+1. Doctor_Wyrm           - 2-0 BlackLotus0014
+2. overlordhellkite      - 2-0 HolyShamgar
+3. a_p_s                 - 2-1 mathguy31415
+4. billster47            - 2-0 blaze66
+5. blaze66               - 0-2 billster47
+6. mathguy31415          - 1-2 a_p_s
+7. HolyShamgar           - 0-2 overlordhellkite
+8. BlackLotus0014        - 0-2 Doctor_Wyrm
+
+##### Round 7 #####
+1. Doctor_Wyrm           - 2-1 mathguy31415
+2. overlordhellkite      - 2-1 a_p_s
+3. a_p_s                 - 1-2 overlordhellkite
+4. billster47            - 0-2 blaze66
+5. blaze66               - 2-0 billster47
+6. mathguy31415          - 1-2 Doctor_Wyrm
+7. HolyShamgar           - 2-1 Hrymfaxe
+8. BlackLotus0014        - 2-1 tedlyted
+9. Xto2                  - 2-0 _Holzi_
+10. coolman2347          - 2-1 Toastmachine
+11. LazZoO               - 2-1 BEAFy
+12. Brivenix             - 2-0 Mandark
+13. pproteus             - 2-1 sakkra
+14. azoriusftw           - 2-0 Mathonical
+15. TheMagePower         - 2-0 Grominou
+16. Mandark              - 0-2 Brivenix
+17. Toastmachine         - 1-2 coolman2347
+18. BERNASTORRES         - 2-0 _Jodah
+19. _sameold             - 2-0 nagibatel
+20. tedlyted             - 1-2 BlackLotus0014
+21. Mathonical           - 0-2 azoriusftw
+22. _Holzi_              - 0-2 Xto2
+23. BEAFy                - 1-2 LazZoO
+24. sakkra               - 1-2 pproteus
+25. qbturtle15           - 2-1 claudiocruz
+26. DDevitt              - 2-0 greenprinny
+27. Sqlut                - 2-0 SamuelBeckett
+28. navi_stabber         - 2-0 Oderus Urungus
+29. deluxeicoff          - 2-1 Joao_Dannemann
+30. EightSixEightSix     - 2-1 tarkanmag
+31. Hrymfaxe             - 1-2 HolyShamgar
+32. nagibatel            - 0-2 _sameold
+33. _Jodah               - 0-2 BERNASTORRES
+34. Grominou             - 0-2 TheMagePower
+35. SamuelBeckett        - 0-2 Sqlut
+36. Oderus Urungus       - 0-2 navi_stabber
+37. DomoArigatoR         - 1-0 Mundisv
+38. claudiocruz          - 1-2 qbturtle15
+39. greenprinny          - 0-2 DDevitt
+40. tarkanmag            - 1-2 EightSixEightSix
+41. mtgonick93           - 1-0 Servemais
+42. PlunderBot           - 
+43. Joao_Dannemann       - 1-2 deluxeicoff
+44. Hellsau              - 
+45. lampalot             - 
+46. Judahbenhur          - 
+47. Mundisv              - 0-1 DomoArigatoR
+48. F2104                - 
+49. FoundryStreetDenizen - 
+50. Servemais            - 0-1 mtgonick93
+51. penips               - 
+52. FranMtg              - 
+53. solace               - 
+54. Shorsh               - 
+55. JasenBS              - 
+56. NoneOfYourBusiness   - 
+57. Teia                 - 
+58. Prison_Warden        - 
+59. rufithweb            - 
+60. Jstimec1             - 
+61. AlwaysFace           - 
+62. Wazman2              - 
+63. mlovbo               - 
+64. TonyMontana          - 
+65. karatedom            - 
+66. Yoshumotto           - 
+67. Iltahuikaisu         - 
+
+##### Round 6 #####
+1. Doctor_Wyrm           - 2-0 Brivenix
+2. overlordhellkite      - 2-1 BEAFy
+3. a_p_s                 - 2-1 Mandark
+4. billster47            - 2-1 LazZoO
+5. blaze66               - 0-2 mathguy31415
+6. mathguy31415          - 2-0 blaze66
+7. HolyShamgar           - 2-0 Toastmachine
+8. BlackLotus0014        - 2-1 BERNASTORRES
+9. Xto2                  - 2-0 claudiocruz
+10. coolman2347          - 2-1 greenprinny
+11. LazZoO               - 1-2 billster47
+12. Brivenix             - 0-2 Doctor_Wyrm
+13. pproteus             - 2-0 _sameold
+14. azoriusftw           - 2-1 nagibatel
+15. TheMagePower         - 2-0 SamuelBeckett
+16. Mandark              - 1-2 a_p_s
+17. Toastmachine         - 0-2 HolyShamgar
+18. BERNASTORRES         - 1-2 BlackLotus0014
+19. _sameold             - 0-2 pproteus
+20. tedlyted             - 2-1 _Holzi_
+21. Mathonical           - 2-1 DDevitt
+22. _Holzi_              - 1-2 tedlyted
+23. BEAFy                - 1-2 overlordhellkite
+24. sakkra               - 2-1 navi_stabber
+25. qbturtle15           - 2-1 Mundisv
+26. DDevitt              - 1-2 Mathonical
+27. Sqlut                - 2-0 FranMtg
+28. navi_stabber         - 1-2 sakkra
+29. deluxeicoff          - 2-1 penips
+30. EightSixEightSix     - 2-1 Judahbenhur
+31. Hrymfaxe             - 2-0 _Jodah
+32. nagibatel            - 1-2 azoriusftw
+33. _Jodah               - 0-2 Hrymfaxe
+34. Grominou             - 2-0 Hellsau
+35. SamuelBeckett        - 0-2 TheMagePower
+36. Oderus Urungus       - 2-0 F2104
+37. DomoArigatoR         - 2-1 mtgonick93
+38. claudiocruz          - 0-2 Xto2
+39. greenprinny          - 1-2 coolman2347
+40. tarkanmag            - 2-0 lampalot
+41. mtgonick93           - 1-2 DomoArigatoR
+42. PlunderBot           - 1-2 Joao_Dannemann
+43. Joao_Dannemann       - 2-1 PlunderBot
+44. Hellsau              - 0-2 Grominou
+45. lampalot             - 0-2 tarkanmag
+46. Judahbenhur          - 1-2 EightSixEightSix
+47. Mundisv              - 1-2 qbturtle15
+48. F2104                - 0-2 Oderus Urungus
+49. FoundryStreetDenizen - 
+50. Servemais            - 2-0 Teia
+51. penips               - 1-2 deluxeicoff
+52. FranMtg              - 0-2 Sqlut
+53. solace               - 
+54. Shorsh               - 
+55. JasenBS              - 
+56. NoneOfYourBusiness   - 
+57. Teia                 - 0-2 Servemais
+58. Prison_Warden        - 
+59. rufithweb            - 
+60. Jstimec1             - 
+61. AlwaysFace           - 
+62. Wazman2              - 
+63. mlovbo               - 
+64. TonyMontana          - 
+65. karatedom            - 
+66. Yoshumotto           - 
+67. Iltahuikaisu         - 
+
+##### Round 5 #####
+1. Doctor_Wyrm           - 2-0 coolman2347
+2. overlordhellkite      - 2-1 BlackLotus0014
+3. a_p_s                 - 2-1 SamuelBeckett
+4. billster47            - 2-0 Xto2
+5. blaze66               - 2-1 HolyShamgar
+6. mathguy31415          - 2-1 LazZoO
+7. HolyShamgar           - 1-2 blaze66
+8. BlackLotus0014        - 1-2 overlordhellkite
+9. Xto2                  - 0-2 billster47
+10. coolman2347          - 0-2 Doctor_Wyrm
+11. LazZoO               - 1-2 mathguy31415
+12. Brivenix             - 2-1 _sameold
+13. pproteus             - 2-1 Hellsau
+14. azoriusftw           - 2-0 Mundisv
+15. TheMagePower         - 2-0 lampalot
+16. Mandark              - 2-0 BERNASTORRES
+17. Toastmachine         - 2-1 Grominou
+18. BERNASTORRES         - 0-2 Mandark
+19. _sameold             - 1-2 Brivenix
+20. tedlyted             - 2-0 qbturtle15
+21. Mathonical           - 2-1 Sqlut
+22. _Holzi_              - 2-0 DDevitt
+23. BEAFy                - 2-1 _Jodah
+24. sakkra               - 2-0 tarkanmag
+25. qbturtle15           - 0-2 tedlyted
+26. DDevitt              - 0-2 _Holzi_
+27. Sqlut                - 1-2 Mathonical
+28. navi_stabber         - 2-1 EightSixEightSix
+29. deluxeicoff          - 2-0 Servemais
+30. EightSixEightSix     - 1-2 navi_stabber
+31. Hrymfaxe             - 2-1 FoundryStreetDenizen
+32. nagibatel            - 2-1 penips
+33. _Jodah               - 1-2 BEAFy
+34. Grominou             - 1-2 Toastmachine
+35. SamuelBeckett        - 1-2 a_p_s
+36. Oderus Urungus       - 2-0 NoneOfYourBusiness
+37. DomoArigatoR         - 1-2 Judahbenhur
+38. claudiocruz          - 2-0 F2104
+39. greenprinny          - 2-1 Joao_Dannemann
+40. tarkanmag            - 0-2 sakkra
+41. mtgonick93           - 2-1 rufithweb
+42. PlunderBot           - 2-1 JasenBS
+43. Joao_Dannemann       - 1-2 greenprinny
+44. Hellsau              - 1-2 pproteus
+45. lampalot             - 0-2 TheMagePower
+46. Judahbenhur          - 2-1 DomoArigatoR
+47. Mundisv              - 0-2 azoriusftw
+48. F2104                - 0-2 claudiocruz
+49. FoundryStreetDenizen - 1-2 Hrymfaxe
+50. Servemais            - 0-2 deluxeicoff
+51. penips               - 1-2 nagibatel
+52. FranMtg              - 2-0 Shorsh
+53. solace               - 
+54. Shorsh               - 0-2 FranMtg
+55. JasenBS              - 1-2 PlunderBot
+56. NoneOfYourBusiness   - 0-2 Oderus Urungus
+57. Teia                 - 2-0 Prison_Warden
+58. Prison_Warden        - 0-2 Teia
+59. rufithweb            - 1-2 mtgonick93
+60. Jstimec1             - 
+61. AlwaysFace           - 
+62. Wazman2              - 
+63. mlovbo               - 
+64. TonyMontana          - 
+65. karatedom            - 
+66. Yoshumotto           - 
+67. Iltahuikaisu         - 
+
+##### Round 4 #####
+1. Doctor_Wyrm           - 2-1 nagibatel
+2. overlordhellkite      - 2-1 penips
+3. a_p_s                 - 2-1 Grominou
+4. billster47            - 2-0 Hellsau
+5. blaze66               - 2-1 BlackLotus0014
+6. mathguy31415          - 2-0 BEAFy
+7. HolyShamgar           - 2-0 _sameold
+8. BlackLotus0014        - 1-2 blaze66
+9. Xto2                  - 2-0 azoriusftw
+10. coolman2347          - 2-1 pproteus
+11. LazZoO               - 2-0 Toastmachine
+12. Brivenix             - 2-0 F2104
+13. pproteus             - 1-2 coolman2347
+14. azoriusftw           - 0-2 Xto2
+15. TheMagePower         - 1-2 _Jodah
+16. Mandark              - 2-1 navi_stabber
+17. Toastmachine         - 0-2 LazZoO
+18. BERNASTORRES         - 2-0 Mathonical
+19. _sameold             - 0-2 HolyShamgar
+20. tedlyted             - 2-0 DomoArigatoR
+21. Mathonical           - 0-2 BERNASTORRES
+22. _Holzi_              - 2-1 FoundryStreetDenizen
+23. BEAFy                - 0-2 mathguy31415
+24. sakkra               - 2-1 mtgonick93
+25. qbturtle15           - 2-1 Oderus Urungus
+26. DDevitt              - 2-0 EightSixEightSix
+27. Sqlut                - 2-0 Judahbenhur
+28. navi_stabber         - 1-2 Mandark
+29. deluxeicoff          - 0-2 claudiocruz
+30. EightSixEightSix     - 0-2 DDevitt
+31. Hrymfaxe             - 2-1 FranMtg
+32. nagibatel            - 1-2 Doctor_Wyrm
+33. _Jodah               - 2-1 TheMagePower
+34. Grominou             - 1-2 a_p_s
+35. SamuelBeckett        - 2-1 Joao_Dannemann
+36. Oderus Urungus       - 1-2 qbturtle15
+37. DomoArigatoR         - 0-2 tedlyted
+38. claudiocruz          - 2-0 deluxeicoff
+39. greenprinny          - 2-0 NoneOfYourBusiness
+40. tarkanmag            - 2-1 rufithweb
+41. mtgonick93           - 1-2 sakkra
+42. PlunderBot           - 2-0 Teia
+43. Joao_Dannemann       - 1-2 SamuelBeckett
+44. Hellsau              - 0-2 billster47
+45. lampalot             - 2-1 JasenBS
+46. Judahbenhur          - 0-2 Sqlut
+47. Mundisv              - 2-0 Shorsh
+48. F2104                - 0-2 Brivenix
+49. FoundryStreetDenizen - 1-2 _Holzi_
+50. Servemais            - 2-0 Prison_Warden
+51. penips               - 1-2 overlordhellkite
+52. FranMtg              - 1-2 Hrymfaxe
+53. solace               - 
+54. Shorsh               - 0-2 Mundisv
+55. JasenBS              - 1-2 lampalot
+56. NoneOfYourBusiness   - 0-2 greenprinny
+57. Teia                 - 0-2 PlunderBot
+58. Prison_Warden        - 0-2 Servemais
+59. rufithweb            - 1-2 tarkanmag
+60. Jstimec1             - 
+61. AlwaysFace           - 
+62. Wazman2              - 
+63. mlovbo               - 
+64. TonyMontana          - 
+65. karatedom            - 
+66. Yoshumotto           - 
+67. Iltahuikaisu         - 
+
+##### Round 3 #####
+1. Doctor_Wyrm           - 1-2 BlackLotus0014
+2. overlordhellkite      - 2-1 Judahbenhur
+3. a_p_s                 - 1-2 HolyShamgar
+4. billster47            - 0-2 mathguy31415
+5. blaze66               - 2-0 BERNASTORRES
+6. mathguy31415          - 2-0 billster47
+7. HolyShamgar           - 2-1 a_p_s
+8. BlackLotus0014        - 2-1 Doctor_Wyrm
+9. Xto2                  - 0-2 _sameold
+10. coolman2347          - 2-1 Shorsh
+11. LazZoO               - 2-0 _Holzi_
+12. Brivenix             - 2-1 solace
+13. pproteus             - 2-0 JasenBS
+14. azoriusftw           - 0-2 Toastmachine
+15. TheMagePower         - 2-0 Mandark
+16. Mandark              - 0-2 TheMagePower
+17. Toastmachine         - 2-0 azoriusftw
+18. BERNASTORRES         - 0-2 blaze66
+19. _sameold             - 2-0 Xto2
+20. tedlyted             - 0-2 Mathonical
+21. Mathonical           - 2-0 tedlyted
+22. _Holzi_              - 0-2 LazZoO
+23. BEAFy                - 2-1 FoundryStreetDenizen
+24. sakkra               - 0-2 DDevitt
+25. qbturtle15           - 1-2 nagibatel
+26. DDevitt              - 2-0 sakkra
+27. Sqlut                - 0-2 _Jodah
+28. navi_stabber         - 2-1 tarkanmag
+29. deluxeicoff          - 2-0 PlunderBot
+30. EightSixEightSix     - 2-0 Oderus Urungus
+31. Hrymfaxe             - 0-2 Hellsau
+32. nagibatel            - 2-1 qbturtle15
+33. _Jodah               - 2-0 Sqlut
+34. Grominou             - 2-0 FranMtg
+35. SamuelBeckett        - 2-1 lampalot
+36. Oderus Urungus       - 0-2 EightSixEightSix
+37. DomoArigatoR         - 2-0 Yoshumotto
+38. claudiocruz          - 2-0 Wazman2
+39. greenprinny          - 2-0 Servemais
+40. tarkanmag            - 1-2 navi_stabber
+41. mtgonick93           - 2-1 Prison_Warden
+42. PlunderBot           - 0-2 deluxeicoff
+43. Joao_Dannemann       - 2-1 NoneOfYourBusiness
+44. Hellsau              - 2-0 Hrymfaxe
+45. lampalot             - 1-2 SamuelBeckett
+46. Judahbenhur          - 1-2 overlordhellkite
+47. Mundisv              - 2-0 Teia
+48. F2104                - 2-0 Jstimec1
+49. FoundryStreetDenizen - 1-2 BEAFy
+50. Servemais            - 0-2 greenprinny
+51. penips               - 2-0 rufithweb
+52. FranMtg              - 0-2 Grominou
+53. solace               - 1-2 Brivenix
+54. Shorsh               - 1-2 coolman2347
+55. JasenBS              - 0-2 pproteus
+56. NoneOfYourBusiness   - 1-2 Joao_Dannemann
+57. Teia                 - 0-2 Mundisv
+58. Prison_Warden        - 1-2 mtgonick93
+59. rufithweb            - 0-2 penips
+60. Jstimec1             - 0-2 F2104
+61. AlwaysFace           - 
+62. Wazman2              - 0-2 claudiocruz
+63. mlovbo               - 
+64. TonyMontana          - 
+65. karatedom            - 
+66. Yoshumotto           - 0-2 DomoArigatoR
+67. Iltahuikaisu         - 
+
+##### Round 2 #####
+1. Doctor_Wyrm           - 2-1 lampalot
+2. overlordhellkite      - 0-2 blaze66
+3. a_p_s                 - 2-1 sakkra
+4. billster47            - 2-0 NoneOfYourBusiness
+5. blaze66               - 2-0 overlordhellkite
+6. mathguy31415          - 2-1 Oderus Urungus
+7. HolyShamgar           - 2-1 Hellsau
+8. BlackLotus0014        - 2-0 Sqlut
+9. Xto2                  - 2-1 coolman2347
+10. coolman2347          - 1-2 Xto2
+11. LazZoO               - 2-1 Shorsh
+12. Brivenix             - 2-0 greenprinny
+13. pproteus             - 0-2 Mandark
+14. azoriusftw           - 2-1 _Jodah
+15. TheMagePower         - 2-0 DomoArigatoR
+16. Mandark              - 2-0 pproteus
+17. Toastmachine         - 2-0 Mathonical
+18. BERNASTORRES         - 2-0 Grominou
+19. _sameold             - 2-0 FranMtg
+20. tedlyted             - 2-1 deluxeicoff
+21. Mathonical           - 0-2 Toastmachine
+22. _Holzi_              - 2-0 qbturtle15
+23. BEAFy                - 2-1 F2104
+24. sakkra               - 1-2 a_p_s
+25. qbturtle15           - 0-2 _Holzi_
+26. DDevitt              - 2-0 AlwaysFace
+27. Sqlut                - 0-2 BlackLotus0014
+28. navi_stabber         - 2-0 Mundisv
+29. deluxeicoff          - 1-2 tedlyted
+30. EightSixEightSix     - 2-1 Servemais
+31. Hrymfaxe             - 2-1 Wazman2
+32. nagibatel            - 2-0 Yoshumotto
+33. _Jodah               - 1-2 azoriusftw
+34. Grominou             - 0-2 BERNASTORRES
+35. SamuelBeckett        - 2-1 claudiocruz
+36. Oderus Urungus       - 1-2 mathguy31415
+37. DomoArigatoR         - 0-2 TheMagePower
+38. claudiocruz          - 1-2 SamuelBeckett
+39. greenprinny          - 0-2 Brivenix
+40. tarkanmag            - 2-1 Iltahuikaisu
+41. mtgonick93           - 0-2 JasenBS
+42. PlunderBot           - 0-2 rufithweb
+43. Joao_Dannemann       - 1-2 FoundryStreetDenizen
+44. Hellsau              - 1-2 HolyShamgar
+45. lampalot             - 1-2 Doctor_Wyrm
+46. Judahbenhur          - 2-0 Prison_Warden
+47. Mundisv              - 0-2 navi_stabber
+48. F2104                - 1-2 BEAFy
+49. FoundryStreetDenizen - 2-1 Joao_Dannemann
+50. Servemais            - 1-2 EightSixEightSix
+51. penips               - 2-0 Teia
+52. FranMtg              - 0-2 _sameold
+53. solace               - 2-1 mlovbo
+54. Shorsh               - 1-2 LazZoO
+55. JasenBS              - 2-0 mtgonick93
+56. NoneOfYourBusiness   - 0-2 billster47
+57. Teia                 - 0-2 penips
+58. Prison_Warden        - 0-2 Judahbenhur
+59. rufithweb            - 2-0 PlunderBot
+60. Jstimec1             - 2-1 karatedom
+61. AlwaysFace           - 0-2 DDevitt
+62. Wazman2              - 1-2 Hrymfaxe
+63. mlovbo               - 1-2 solace
+64. TonyMontana          - 
+65. karatedom            - 1-2 Jstimec1
+66. Yoshumotto           - 0-2 nagibatel
+67. Iltahuikaisu         - 1-2 tarkanmag
+
+##### Round 1 #####
+1. Doctor_Wyrm           - 2-0 DomoArigatoR
+2. overlordhellkite      - 2-0 solace
+3. a_p_s                 - 2-1 deluxeicoff
+4. billster47            - 2-0 mtgonick93
+5. blaze66               - 2-0 Teia
+6. mathguy31415          - 2-0 Wazman2
+7. HolyShamgar           - 2-1 mlovbo
+8. BlackLotus0014        - 2-0 Mundisv
+9. Xto2                  - 2-0 Servemais
+10. coolman2347          - 2-0 nagibatel
+11. LazZoO               - 2-0 Prison_Warden
+12. Brivenix             - 1-2 lampalot
+13. pproteus             - 2-0 AlwaysFace
+14. azoriusftw           - 2-0 karatedom
+15. TheMagePower         - 0-2 qbturtle15
+16. Mandark              - 2-1 SamuelBeckett
+17. Toastmachine         - 2-1 tarkanmag
+18. BERNASTORRES         - 2-0 tedlyted
+19. _sameold             - 2-0 JasenBS
+20. tedlyted             - 0-2 BERNASTORRES
+21. Mathonical           - 2-0 PlunderBot
+22. _Holzi_              - 2-1 claudiocruz
+23. BEAFy                - 2-1 Yoshumotto
+24. sakkra               - 2-0 TonyMontana
+25. qbturtle15           - 2-0 TheMagePower
+26. DDevitt              - 1-2 F2104
+27. Sqlut                - 2-0 EightSixEightSix
+28. navi_stabber         - 1-2 Hellsau
+29. deluxeicoff          - 1-2 a_p_s
+30. EightSixEightSix     - 0-2 Sqlut
+31. Hrymfaxe             - 0-2 Grominou
+32. nagibatel            - 0-2 coolman2347
+33. _Jodah               -
+34. Grominou             - 2-0 Hrymfaxe
+35. SamuelBeckett        - 1-2 Mandark
+36. Oderus Urungus       - 2-1 Jstimec1
+37. DomoArigatoR         - 0-2 Doctor_Wyrm
+38. claudiocruz          - 1-2 _Holzi_
+39. greenprinny          - 0-2 Shorsh
+40. tarkanmag            - 1-2 Toastmachine
+41. mtgonick93           - 0-2 billster47
+42. PlunderBot           - 0-2 Mathonical
+43. Joao_Dannemann       - 2-1 rufithweb
+44. Hellsau              - 2-1 navi_stabber
+45. lampalot             - 2-1 Brivenix
+46. Judahbenhur          - 0-2 FoundryStreetDenizen
+47. Mundisv              - 0-2 BlackLotus0014
+48. F2104                - 2-1 DDevitt
+49. FoundryStreetDenizen - 2-0 Judahbenhur
+50. Servemais            - 0-2 Xto2
+51. penips               - 0-2 NoneOfYourBusiness
+52. FranMtg              - 2-1 Iltahuikaisu
+53. solace               - 0-2 overlordhellkite
+54. Shorsh               - 2-0 greenprinny
+55. JasenBS              - 0-2 _sameold
+56. NoneOfYourBusiness   - 2-0 penips
+57. Teia                 - 0-2 blaze66
+58. Prison_Warden        - 0-2 LazZoO
+59. rufithweb            - 1-2 Joao_Dannemann
+60. Jstimec1             - 1-2 Oderus Urungus
+61. AlwaysFace           - 0-2 pproteus
+62. Wazman2              - 0-2 mathguy31415
+63. mlovbo               - 1-2 HolyShamgar
+64. TonyMontana          - 0-2 sakkra
+65. karatedom            - 0-2 azoriusftw
+66. Yoshumotto           - 1-2 BEAFy
+67. Iltahuikaisu         - 1-2 FranMtg

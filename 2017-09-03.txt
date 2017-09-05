@@ -1,0 +1,480 @@
+1. _Batutinha_        - Stompy
+2. Mundisv            - UB Ratlock
+3. sakkra             - UR Blitz
+4. jcarranza45        - Burn
+5. _DissonancE_       - Stompy
+6. Arianne            - RW Kitty Tokens
+7. Toastmachine       - UR Blitz
+8. pokerswizard       - Bogles
+----- 4-2 group -----
+9. qbturtle15         - UB Alchemy
+10. Iamjewbaca        - Bogles
+11. tarkanmag         - MBC
+12. Doctor_Wyrm       - Stompy
+13. puzzles           - RW Kitty Tokens
+14. Olivetti          - RW Kitty Monarch
+15. ArcaCrema         - Stompy
+16. deluxeicoff       - Mono Black Thorn
+17. blaze66           - UR Delver
+18. pproteus          - Stompy
+19. Tiqqi             - UB Ratlock
+20. Hrymfaxe          - Stompy
+21. nuninman          - UR Delver
+----- 3-3 group -----
+22. Jorge_Jung        - Affinity
+23. MakingSmartPlays  - Stompy
+24. mlovbo            - UG Tron
+25. TomatoCheese      - UW Tribe
+26. TheMagePower      - UR Delver
+27. 420dragon         - UB Faeries (Angler)
+28. beau0470          - Mono Blue Delver
+29. EightSixEightSix  - UB Reanimator
+30. Mathonical        - Naya Gond
+31. Abuzallama        - Burn
+32. HeWhoIsInTheWater - WB Pestilence
+33. Mandark           - Affinity
+34. GarH              - Goblins
+35. vihespanhol       - White Weenie
+36. snoremonster      - UW Tribe
+37. Sqlut             - Burn
+38. FernandoChouzal   - UB Teachings
+39. RainerZahnfall92  - RW Kitty Monarch
+----- 2-X group -----
+40. Gcleto            - UR Blitz
+41. _Jodah            - UB Ratlock
+42. ticki             - UR Delver
+43. Promidnightz      - Stompy
+44. LFCeline          - Stompy
+45. Shorsh            - Burn
+46. MestreSplinter    - Affinity
+47. FullHard          - Slivers
+48. Servemais         - Stompy
+49. Daalot            - UB Alchemy
+----- 1-X group -----
+50. TonyMontana       - Affinity
+51. MoofPotter        - Affinity
+52. xKafka            - UR Delver
+53. Xto2              - Murasa Tron
+54. Clahur            - Slivers
+55. litofeit          - UR Prowess (Burn, Archer, Kiln Fiend, Spellweaver)
+56. Rydyell           - Burn
+----- 0-X group -----
+57. HeyNongMan        - Affinity
+58. FoRilaKila        - RB Burn (Angler, Unearth, Marauders, Archer)
+59. charizard92       - UR Delver
+60. creepevee         - UB Reanimator
+61. ChironTheMage     - UR Blitz
+62. numaru            - Burn
+63. StefanoGranata92  - Affinity
+
+##### Round 9 #####
+--- "prize split" followed by a concession without playing magic,
+--- recorded as 0-0-3 for statistical reasons
+1. _Batutinha_        - 0-0-3 Mundisv
+2. Mundisv            - 0-0-3 _Batutinha_
+
+##### Round 8 #####
+1. _Batutinha_        - 2-1 jcarranza45
+2. Mundisv            - 2-1 sakkra
+3. sakkra             - 1-2 Mundisv
+4. jcarranza45        - 1-2 _Batutinha_
+
+##### Round 7 #####
+1. _Batutinha_        - 2-0 _DissonancE_
+2. Mundisv            - 2-0 Arianne
+3. sakkra             - 2-0 pokerswizard
+4. jcarranza45        - 2-1 Toastmachine
+5. _DissonancE_       - 0-2 _Batutinha_
+6. Arianne            - 0-2 Mundisv
+7. Toastmachine       - 1-2 jcarranza45
+8. pokerswizard       - 0-2 sakkra
+
+##### Round 6 #####
+1. _Batutinha_        - 0-2 Toastmachine
+2. Mundisv            - 2-0 blaze66
+3. sakkra             - 0-2 _DissonancE_
+4. jcarranza45        - 2-0 ArcaCrema
+5. _DissonancE_       - 2-0 sakkra
+6. Arianne            - 2-0 Iamjewbaca
+7. Toastmachine       - 2-0 _Batutinha_
+8. pokerswizard       - 2-1 tarkanmag
+9. qbturtle15         - 2-0 MakingSmartPlays
+10. Iamjewbaca        - 0-2 Arianne
+11. tarkanmag         - 1-2 pokerswizard
+12. Doctor_Wyrm       - 2-1 Jorge_Jung
+13. puzzles           - 2-1 Sqlut
+14. Olivetti          - 2-0 EightSixEightSix
+15. ArcaCrema         - 0-2 jcarranza45
+16. deluxeicoff       - 2-0 mlovbo
+17. blaze66           - 0-2 Mundisv
+18. pproteus          - 2-1 GarH
+19. Tiqqi             - 2-1 HeWhoIsInTheWater
+20. Hrymfaxe          - 2-0 420dragon
+21. nuninman          - 2-1 FernandoChouzal
+22. Jorge_Jung        - 1-2 Doctor_Wyrm
+23. MakingSmartPlays  - 0-2 qbturtle15
+24. mlovbo            - 0-2 deluxeicoff
+25. TomatoCheese      - 2-0 Shorsh
+26. TheMagePower      - 0-2 RainerZahnfall92
+27. 420dragon         - 0-2 Hrymfaxe
+28. beau0470          - 2-1 ticki
+29. EightSixEightSix  - 0-2 Olivetti
+30. Mathonical        - 2-1 Gcleto
+31. Abuzallama        - 2-1 Promidnightz
+32. HeWhoIsInTheWater - 1-2 Tiqqi
+33. Mandark           - 2-1 Daalot
+34. GarH              - 1-2 pproteus
+35. vihespanhol       - 2-1 LFCeline
+36. snoremonster      - 2-0 MestreSplinter
+37. Sqlut             - 1-2 puzzles
+38. FernandoChouzal   - 1-2 nuninman
+39. RainerZahnfall92  - 2-0 TheMagePower
+40. Gcleto            - 1-2 Mathonical
+41. _Jodah            - 
+42. ticki             - 1-2 beau0470
+43. Promidnightz      - 1-2 Abuzallama
+44. LFCeline          - 1-2 vihespanhol
+45. Shorsh            - 0-2 TomatoCheese
+46. MestreSplinter    - 0-2 snoremonster
+47. FullHard          - 2-0 litofeit
+48. Servemais         - 2-0 MoofPotter
+49. Daalot            - 1-2 Mandark
+50. TonyMontana       - 
+51. MoofPotter        - 0-2 Servemais
+52. xKafka            - 
+53. Xto2              - 
+54. Clahur            - 
+55. litofeit          - 0-2 FullHard
+56. Rydyell           - 
+57. HeyNongMan        - 
+58. FoRilaKila        - 
+59. charizard92       - 
+60. creepevee         - 
+61. ChironTheMage     - 
+62. numaru            - 
+63. StefanoGranata92  - 
+
+##### Round 5 #####
+1. _Batutinha_        - 2-1 Tiqqi
+2. Mundisv            - 2-1 TheMagePower
+3. sakkra             - 2-1 Iamjewbaca
+4. jcarranza45        - 2-1 qbturtle15
+5. _DissonancE_       - 2-0 Arianne
+6. Arianne            - 0-2 _DissonancE_
+7. Toastmachine       - 2-1 MakingSmartPlays
+8. pokerswizard       - 2-1 Doctor_Wyrm
+9. qbturtle15         - 1-2 jcarranza45
+10. Iamjewbaca        - 1-2 sakkra
+11. tarkanmag         - 2-0 pproteus
+12. Doctor_Wyrm       - 1-2 pokerswizard
+13. puzzles           - 2-1 snoremonster
+14. Olivetti          - 2-1 Mandark
+15. ArcaCrema         - 2-1 Jorge_Jung
+16. deluxeicoff       - 2-1 beau0470
+17. blaze66           - 2-0 420dragon
+18. pproteus          - 0-2 tarkanmag
+19. Tiqqi             - 1-2 _Batutinha_
+20. Hrymfaxe          - 2-1 ticki
+21. nuninman          - 2-0 Mathonical
+22. Jorge_Jung        - 1-2 ArcaCrema
+23. MakingSmartPlays  - 1-2 Toastmachine
+24. mlovbo            - 2-0 Shorsh
+25. TomatoCheese      - 1-2 EightSixEightSix
+26. TheMagePower      - 1-2 Mundisv
+27. 420dragon         - 0-2 blaze66
+28. beau0470          - 1-2 deluxeicoff
+29. EightSixEightSix  - 2-1 TomatoCheese
+30. Mathonical        - 0-2 nuninman
+31. Abuzallama        - 1-2 Sqlut
+32. HeWhoIsInTheWater - 2-1 Gcleto
+33. Mandark           - 1-2 Olivetti
+34. GarH              - 2-1 Daalot
+35. vihespanhol       - 2-1 litofeit
+36. snoremonster      - 1-2 puzzles
+37. Sqlut             - 2-1 Abuzallama
+38. FernandoChouzal   - 2-1 _Jodah
+39. RainerZahnfall92  - 2-1 MoofPotter
+40. Gcleto            - 1-2 HeWhoIsInTheWater
+41. _Jodah            - 1-2 FernandoChouzal
+42. ticki             - 1-2 Hrymfaxe
+43. Promidnightz      - 2-1 Xto2
+44. LFCeline          - 2-1 Servemais
+45. Shorsh            - 0-2 mlovbo
+46. MestreSplinter    - 2-1 Clahur
+47. FullHard          - 
+48. Servemais         - 1-2 LFCeline
+49. Daalot            - 1-2 GarH
+50. TonyMontana       - 
+51. MoofPotter        - 1-2 RainerZahnfall92
+52. xKafka            - 
+53. Xto2              - 1-2 Promidnightz
+54. Clahur            - 1-2 MestreSplinter
+55. litofeit          - 1-2 vihespanhol
+56. Rydyell           - 
+57. HeyNongMan        - 
+58. FoRilaKila        - 
+59. charizard92       - 
+60. creepevee         - 
+61. ChironTheMage     - 
+62. numaru            - 
+63. StefanoGranata92  - 
+
+##### Round 4 #####
+1. _Batutinha_        - 2-1 Shorsh
+2. Mundisv            - 2-1 TomatoCheese
+3. sakkra             - 2-0 qbturtle15
+4. jcarranza45        - 2-0 deluxeicoff
+5. _DissonancE_       - 2-1 ArcaCrema
+6. Arianne            - 2-1 MakingSmartPlays
+7. Toastmachine       - 2-0 puzzles
+8. pokerswizard       - 2-0 _Jodah
+9. qbturtle15         - 0-2 sakkra
+10. Iamjewbaca        - 2-0 Jorge_Jung
+11. tarkanmag         - 2-1 Mandark
+12. Doctor_Wyrm       - 2-0 GarH
+13. puzzles           - 0-2 Toastmachine
+14. Olivetti          - 2-0 Xto2
+15. ArcaCrema         - 1-2 _DissonancE_
+16. deluxeicoff       - 0-2 jcarranza45
+17. blaze66           - 2-1 Gcleto
+18. pproteus          - 2-0 mlovbo
+19. Tiqqi             - 2-1 ticki
+20. Hrymfaxe          - 2-1 Promidnightz
+21. nuninman          - 2-0 MoofPotter
+22. Jorge_Jung        - 0-2 Iamjewbaca
+23. MakingSmartPlays  - 1-2 Arianne
+24. mlovbo            - 0-2 pproteus
+25. TomatoCheese      - 1-2 Mundisv
+26. TheMagePower      - 2-0 beau0470
+27. 420dragon         - 2-0 EightSixEightSix
+28. beau0470          - 0-2 TheMagePower
+29. EightSixEightSix  - 0-2 420dragon
+30. Mathonical        - 2-1 Servemais
+31. Abuzallama        - 2-0 xKafka
+32. HeWhoIsInTheWater - 2-0 vihespanhol
+33. Mandark           - 1-2 tarkanmag
+34. GarH              - 0-2 Doctor_Wyrm
+35. vihespanhol       - 0-2 HeWhoIsInTheWater
+36. snoremonster      - 2-1 Clahur
+37. Sqlut             - 2-1 LFCeline
+38. FernandoChouzal   - 2-1 TonyMontana
+39. RainerZahnfall92  - 2-0 FullHard
+40. Gcleto            - 1-2 blaze66
+41. _Jodah            - 0-2 pokerswizard
+42. ticki             - 1-2 Tiqqi
+43. Promidnightz      - 1-2 Hrymfaxe
+44. LFCeline          - 1-2 Sqlut
+45. Shorsh            - 1-2 _Batutinha_
+46. MestreSplinter    - 0-2 Daalot
+47. FullHard          - 0-2 RainerZahnfall92
+48. Servemais         - 1-2 Mathonical
+49. Daalot            - 2-0 MestreSplinter
+50. TonyMontana       - 1-2 FernandoChouzal
+51. MoofPotter        - 0-2 nuninman
+52. xKafka            - 0-2 Abuzallama
+53. Xto2              - 0-2 Olivetti
+54. Clahur            - 1-2 snoremonster
+55. litofeit          - 
+56. Rydyell           - 
+57. HeyNongMan        - 
+58. FoRilaKila        - 
+59. charizard92       - 
+60. creepevee         - 
+61. ChironTheMage     - 
+62. numaru            - 
+63. StefanoGranata92  - 
+
+##### Round 3 #####
+1. _Batutinha_        - 0-2 Arianne
+2. Mundisv            - 2-1 Olivetti
+3. sakkra             - 2-1 Gcleto
+4. jcarranza45        - 2-0 vihespanhol
+5. _DissonancE_       - 2-1 TomatoCheese
+6. Arianne            - 2-0 _Batutinha_
+7. Toastmachine       - 2-1 snoremonster
+8. pokerswizard       - 2-1 xKafka
+9. qbturtle15         - 2-0 Doctor_Wyrm
+10. Iamjewbaca        - 2-1 puzzles
+11. tarkanmag         - 1-0 TonyMontana
+12. Doctor_Wyrm       - 0-2 qbturtle15
+13. puzzles           - 1-2 Iamjewbaca
+14. Olivetti          - 1-2 Mundisv
+15. ArcaCrema         - 2-0 Shorsh
+16. deluxeicoff       - 2-0 LFCeline
+17. blaze66           - 2-1 Abuzallama
+18. pproteus          - 2-0 MestreSplinter
+19. Tiqqi             - 1-2 MakingSmartPlays
+20. Hrymfaxe          - 0-2 mlovbo
+21. nuninman          - 2-0 FullHard
+22. Jorge_Jung        - 2-0 _Jodah
+23. MakingSmartPlays  - 2-1 Tiqqi
+24. mlovbo            - 2-0 Hrymfaxe
+25. TomatoCheese      - 1-2 _DissonancE_
+26. TheMagePower      - 2-1 Promidnightz
+27. 420dragon         - 2-0 MoofPotter
+28. beau0470          - 2-1 Servemais
+29. EightSixEightSix  - 2-1 HeWhoIsInTheWater
+30. Mathonical        - 2-0 numaru
+31. Abuzallama        - 1-2 blaze66
+32. HeWhoIsInTheWater - 1-2 EightSixEightSix
+33. Mandark           - 2-0 Xto2
+34. GarH              - 2-1 Rydyell
+35. vihespanhol       - 0-2 jcarranza45
+36. snoremonster      - 1-2 Toastmachine
+37. Sqlut             - 2-1 litofeit
+38. FernandoChouzal   - 2-0 ChironTheMage
+39. RainerZahnfall92  - 1-2 Clahur
+40. Gcleto            - 1-2 sakkra
+41. _Jodah            - 0-2 Jorge_Jung
+42. ticki             - 2-1 Daalot
+43. Promidnightz      - 1-2 TheMagePower
+44. LFCeline          - 0-2 deluxeicoff
+45. Shorsh            - 0-2 ArcaCrema
+46. MestreSplinter    - 0-2 pproteus
+47. FullHard          - 0-2 nuninman
+48. Servemais         - 1-2 beau0470
+49. Daalot            - 1-2 ticki
+50. TonyMontana       - 0-1 tarkanmag
+51. MoofPotter        - 0-2 420dragon
+52. xKafka            - 1-2 pokerswizard
+53. Xto2              - 0-2 Mandark
+54. Clahur            - 2-1 RainerZahnfall92
+55. litofeit          - 1-2 Sqlut
+56. Rydyell           - 1-2 GarH
+57. HeyNongMan        - 
+58. FoRilaKila        - 
+59. charizard92       - 
+60. creepevee         - 
+61. ChironTheMage     - 0-2 FernandoChouzal
+62. numaru            - 0-2 Mathonical
+63. StefanoGranata92  - 
+
+##### Round 2 #####
+1. _Batutinha_        - 2-1 Olivetti
+2. Mundisv            - 1-0 charizard92
+3. sakkra             - 2-0 Toastmachine
+4. jcarranza45        - 2-0 HeyNongMan
+5. _DissonancE_       - 2-1 mlovbo
+6. Arianne            - 2-0 beau0470
+7. Toastmachine       - 0-2 sakkra
+8. pokerswizard       - 2-0 creepevee
+9. qbturtle15         - 2-0 blaze66
+10. Iamjewbaca        - 2-1 GarH
+11. tarkanmag         - 2-0 Mathonical
+12. Doctor_Wyrm       - 2-0 LFCeline
+13. puzzles           - 2-0 vihespanhol
+14. Olivetti          - 1-2 _Batutinha_
+15. ArcaCrema         - 2-1 ticki
+16. deluxeicoff       - 0-2 Jorge_Jung
+17. blaze66           - 0-2 qbturtle15
+18. pproteus          - 2-0 FoRilaKila
+19. Tiqqi             - 2-1 MoofPotter
+20. Hrymfaxe          - 
+21. nuninman          - 0-2 Xto2
+22. Jorge_Jung        - 2-0 deluxeicoff
+23. MakingSmartPlays  - 2-0 Servemais
+24. mlovbo            - 1-2 _DissonancE_
+25. TomatoCheese      - 2-0 Abuzallama
+26. TheMagePower      - 2-0 FullHard
+27. 420dragon         - 2-0 RainerZahnfall92
+28. beau0470          - 0-2 Arianne
+29. EightSixEightSix  - 2-0 FernandoChouzal
+30. Mathonical        - 0-2 tarkanmag
+31. Abuzallama        - 0-2 TomatoCheese
+32. HeWhoIsInTheWater - 2-0 Clahur
+33. Mandark           - 2-1 StefanoGranata92
+34. GarH              - 1-2 Iamjewbaca
+35. vihespanhol       - 0-2 puzzles
+36. snoremonster      - 2-0 numaru
+37. Sqlut             - 1-2 Promidnightz
+38. FernandoChouzal   - 0-2 EightSixEightSix
+39. RainerZahnfall92  - 0-2 420dragon
+40. Gcleto            - 2-0 TonyMontana
+41. _Jodah            - 2-1 xKafka
+42. ticki             - 1-2 ArcaCrema
+43. Promidnightz      - 2-1 Sqlut
+44. LFCeline          - 0-2 Doctor_Wyrm
+45. Shorsh            - 2-1 Daalot
+46. MestreSplinter    - 2-1 ChironTheMage
+47. FullHard          - 0-2 TheMagePower
+48. Servemais         - 0-2 MakingSmartPlays
+49. Daalot            - 1-2 Shorsh
+50. TonyMontana       - 0-2 Gcleto
+51. MoofPotter        - 1-2 Tiqqi
+52. xKafka            - 1-2 _Jodah
+53. Xto2              - 2-0 nuninman
+54. Clahur            - 0-2 HeWhoIsInTheWater
+55. litofeit          - 1-2 Rydyell
+56. Rydyell           - 2-1 litofeit
+57. HeyNongMan        - 0-2 jcarranza45
+58. FoRilaKila        - 0-2 pproteus
+59. charizard92       - 0-1 Mundisv
+60. creepevee         - 0-2 pokerswizard
+61. ChironTheMage     - 1-2 MestreSplinter
+62. numaru            - 0-2 snoremonster
+63. StefanoGranata92  - 1-2 Mandark
+
+##### Round 1 #####
+1. _Batutinha_        - 2-0 tarkanmag
+2. Mundisv            - 0-2 TonyMontana
+3. sakkra             - 2-0 Mathonical
+4. jcarranza45        - 0-2 Jorge_Jung
+5. _DissonancE_       - 2-0 HeyNongMan
+6. Arianne            - 2-0 TheMagePower
+7. Toastmachine       - 2-0 MestreSplinter
+8. pokerswizard       - 1-2 Gcleto
+9. qbturtle15         - 2-1 FoRilaKila
+10. Iamjewbaca        - 2-0 Mandark
+11. tarkanmag         - 0-2 _Batutinha_
+12. Doctor_Wyrm       - 2-1 pproteus
+13. puzzles           - 2-0 420dragon
+14. Olivetti          - 2-0 HeWhoIsInTheWater
+15. ArcaCrema         - 2-0 Promidnightz
+16. deluxeicoff       - 2-1 Sqlut
+17. blaze66           - 2-1 ChironTheMage
+18. pproteus          - 1-2 Doctor_Wyrm
+19. Tiqqi             - 2-1 RainerZahnfall92
+20. Hrymfaxe          - 0-2 Abuzallama
+21. nuninman          - 1-2 _Jodah
+22. Jorge_Jung        - 2-0 jcarranza45
+23. MakingSmartPlays  - 2-0 EightSixEightSix
+24. mlovbo            - 2-1 charizard92
+25. TomatoCheese      - 2-0 litofeit
+26. TheMagePower      - 0-2 Arianne
+27. 420dragon         - 0-2 puzzles
+28. beau0470          - 2-1 FernandoChouzal
+29. EightSixEightSix  - 0-2 MakingSmartPlays
+30. Mathonical        - 0-2 sakkra
+31. Abuzallama        - 2-0 Hrymfaxe
+32. HeWhoIsInTheWater - 0-2 Olivetti
+33. Mandark           - 0-2 Iamjewbaca
+34. GarH              - 2-0 creepevee
+35. vihespanhol       - 2-0 Clahur
+36. snoremonster      - 1-2 MoofPotter
+37. Sqlut             - 1-2 deluxeicoff
+38. FernandoChouzal   - 1-2 beau0470
+39. RainerZahnfall92  - 1-2 Tiqqi
+40. Gcleto            - 2-1 pokerswizard
+41. _Jodah            - 2-1 nuninman
+42. ticki             - 2-0 Rydyell
+43. Promidnightz      - 0-2 ArcaCrema
+44. LFCeline          - 
+45. Shorsh            - 2-0 FullHard
+46. MestreSplinter    - 0-2 Toastmachine
+47. FullHard          - 0-2 Shorsh
+48. Servemais         - 2-1 numaru
+49. Daalot            - 2-0 Xto2
+50. TonyMontana       - 2-0 Mundisv
+51. MoofPotter        - 2-1 snoremonster
+52. xKafka            - 2-1 StefanoGranata92
+53. Xto2              - 0-2 Daalot
+54. Clahur            - 0-2 vihespanhol
+55. litofeit          - 0-2 TomatoCheese
+56. Rydyell           - 0-2 ticki
+57. HeyNongMan        - 0-2 _DissonancE_
+58. FoRilaKila        - 1-2 qbturtle15
+59. charizard92       - 1-2 mlovbo
+60. creepevee         - 0-2 GarH
+61. ChironTheMage     - 1-2 blaze66
+62. numaru            - 1-2 Servemais
+63. StefanoGranata92  - 1-2 xKafka

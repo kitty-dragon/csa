@@ -1,0 +1,431 @@
+1. Hrymfaxe - Stompy
+2. bigcaban2 - Dinrova Tron
+3. Brivenix - Delver
+4. andersongouvea - Affinity
+5. __CH1 - Affinity
+6. tedlyted - Dinrova Tron
+7. alfreditomelira - Stompy
+8. TaotheNinja - Dinrova Tron
+9. Toastmachine - Eye Candy
+10. Xto2 - Izzet Control
+11. herosaine2006 - Affinity
+12. pproteus - Stompy
+13. goyo315 - Izzet Delver
+14. redler - Izzet Delver
+15. _DissonancE_ - Stompy
+16. tarkanmag - Dimir Flicker
+17. airfarmer - Spy
+18. 420dragon - Esper Familiars
+19. qbturtle15 - Dimir Alchemy
+20. Bielzito - Dinrova Tron
+21. Tyrannical - RUG Tron
+22. Couldreaver - Hexproof
+23. Pro_Yojimb0o_Pro - Izzet Burn
+24. TheMagePower - Izzet Delver
+25. crazy_alex - Affinity
+26. Entropic_Thunder - RDW
+27. Mathonical - Midnight Gond
+28. pokerswizard - Delver
+29. Mandark - Dimir Alchemy
+30. _Takeno_ - Affinity
+31. Bboycott - Hexproof
+32. greenprinny - Inside Out
+----- ratings below are unknown -----
+0. BEAFy - Izzet Control
+0. Brott - Murasa Tron
+0. Condescend - Izzet Delver
+0. D0C70RF4U57 - Dimir Angler
+0. darkrayne0 - Eye Candy
+0. elevatorrider - Affinity
+0. Hellsau - Esper Familiars
+0. HolyShamgar - Izzet Delver
+0. Iltahuikaisu - Burn
+0. kungfutrees - Stompy
+0. Kzrds - Izzet Control
+0. m0torhead - Burn
+0. MakingSmartPlays - Tortured Existence
+0. Malkafa - Dinrova Tron
+0. manyasone - Delver
+0. medvedev - Izzet Delver
+0. miz_yari - Monowhite
+0. nuninman - Izzet Delver
+0. Rindsgerd - Dimir Angler
+0. Russkov14 - Slivers
+0. Sambos - Dimir Teachings
+0. ScaughtyO - Dimir Exhume
+0. Servemais - Elves
+0. Smashing Centaur - Red Heroic
+0. Spokes - Stompy
+0. Tabadonk - Burn
+0. TonyMontana - Affinity
+0. varanasibaby - Murasa Tron
+0. vlaprohor - Stompy
+0. WWEHBK - Affinity
+
+##### Round 9 #####
+0. Hrymfaxe - 2-0 bigcaban2
+0. bigcaban2 - 0-2 Hrymfaxe
+
+##### Round 8 #####
+0. Brivenix - 0-2 Hrymfaxe
+0. Hrymfaxe - 2-0 Brivenix
+0. andersongouvea - 1-2 bigcaban2
+0. bigcaban2 - 2-1 andersongouvea
+
+##### Round 7 #####
+0. Brivenix - 2-0 TaotheNinja
+0. Hrymfaxe - 2-0 tedlyted
+0. TaotheNinja - 0-2 Brivenix
+0. __CH1 - 0-2 bigcaban2
+0. alfreditomelira - 0-2 andersongouvea
+0. andersongouvea - 2-0 alfreditomelira
+0. bigcaban2 - 2-0 __CH1
+0. tedlyted - 0-2 Hrymfaxe
+
+##### Round 6 #####
+0. 420dragon - 2-0 Mandark
+0. BEAFy - 0-2 m0torhead
+0. Bboycott - 0-2 tarkanmag
+0. Bielzito - 2-1 Pro_Yojimb0o_Pro
+0. Brivenix - 2-0 andersongouvea
+0. Couldreaver - 2-1 Servemais
+0. D0C70RF4U57 - 1-2 Mathonical
+0. Entropic_Thunder - 2-0 Tabadonk
+0. Hellsau - 1-2 herosaine2006
+0. Hrymfaxe - 2-0 pproteus
+0. Kzrds - 1-2 Sambos
+0. Mandark - 0-2 420dragon
+0. Mathonical - 2-1 D0C70RF4U57
+0. Pro_Yojimb0o_Pro - 1-2 Bielzito
+0. Sambos - 2-1 Kzrds
+0. Servemais - 1-2 Couldreaver
+0. Tabadonk - 0-2 Entropic_Thunder
+0. TaotheNinja - 1-2 alfreditomelira
+0. TheMagePower - 1-2 redler
+0. Toastmachine - 1-2 tedlyted
+0. TonyMontana - 0-2 vlaprohor
+0. Tyrannical - 2-0 kungfutrees
+0. Xto2 - 1-2 __CH1
+0. _DissonancE_ - 2-1 crazy_alex
+0. _Takeno_ - 0-2 qbturtle15
+0. __CH1 - 2-1 Xto2
+0. airfarmer - 1-2 bigcaban2
+0. alfreditomelira - 2-1 TaotheNinja
+0. andersongouvea - 0-2 Brivenix
+0. bigcaban2 - 2-1 airfarmer
+0. crazy_alex - 1-2 _DissonancE_
+0. goyo315 - 2-0 greenprinny
+0. greenprinny - 0-2 goyo315
+0. herosaine2006 - 2-1 Hellsau
+0. kungfutrees - 0-2 Tyrannical
+0. m0torhead - 2-0 BEAFy
+0. medvedev - 2-0 varanasibaby
+0. miz_yari - 0-2 pokerswizard
+0. pokerswizard - 2-0 miz_yari
+0. pproteus - 0-2 Hrymfaxe
+0. qbturtle15 - 2-0 _Takeno_
+0. redler - 2-1 TheMagePower
+0. tarkanmag - 2-0 Bboycott
+0. tedlyted - 2-1 Toastmachine
+0. varanasibaby - 0-2 medvedev
+0. vlaprohor - 2-0 TonyMontana
+
+##### Round 5 #####
+0. 420dragon - 2-1 kungfutrees
+0. BEAFy - 2-0 Condescend
+0. Bboycott - 2-0 TonyMontana
+0. Bielzito - 2-1 miz_yari
+0. Brivenix - 2-1 Toastmachine
+0. Condescend - 0-2 BEAFy
+0. Couldreaver - 1-2 Hrymfaxe
+0. D0C70RF4U57 - 0-2 greenprinny
+0. Entropic_Thunder - 0-2 Mandark
+0. Hellsau - 2-0 varanasibaby
+0. Hrymfaxe - 2-1 Couldreaver
+0. Kzrds - 0-2 tarkanmag
+0. Malkafa - 1-2 Sambos
+0. Mandark - 2-0 Entropic_Thunder
+0. Mathonical - 0-2 Tyrannical
+0. Pro_Yojimb0o_Pro - 0-2 Xto2
+0. Sambos - 2-1 Malkafa
+0. Servemais - 0-2 _Takeno_
+0. Smashing Centaur - 1-2 medvedev
+0. TaotheNinja - 2-0 herosaine2006
+0. TheMagePower - 0-2 alfreditomelira
+0. Toastmachine - 1-2 Brivenix
+0. TonyMontana - 0-2 Bboycott
+0. Tyrannical - 2-0 Mathonical
+0. Xto2 - 2-0 Pro_Yojimb0o_Pro
+0. _DissonancE_ - 0-2 airfarmer
+0. _Takeno_ - 2-0 Servemais
+0. __CH1 - 2-1 redler
+0. airfarmer - 2-0 _DissonancE_
+0. alfreditomelira - 2-0 TheMagePower
+0. andersongouvea - 2-1 tedlyted
+0. bigcaban2 - 2-0 crazy_alex
+0. crazy_alex - 0-2 bigcaban2
+0. goyo315 - 2-0 pokerswizard
+0. greenprinny - 2-0 D0C70RF4U57
+0. herosaine2006 - 0-2 TaotheNinja
+0. kungfutrees - 1-2 420dragon
+0. m0torhead - 2-0 nuninman
+0. manyasone - 1-2 vlaprohor
+0. medvedev - 2-1 Smashing Centaur
+0. miz_yari - 1-2 Bielzito
+0. nuninman - 0-2 m0torhead
+0. pokerswizard - 0-2 goyo315
+0. pproteus - 2-1 qbturtle15
+0. qbturtle15 - 1-2 pproteus
+0. redler - 1-2 __CH1
+0. tarkanmag - 2-0 Kzrds
+0. tedlyted - 1-2 andersongouvea
+0. varanasibaby - 0-2 Hellsau
+0. vlaprohor - 2-1 manyasone
+
+##### Round 4 #####
+0. 420dragon - 2-1 vlaprohor
+0. BEAFy - 2-1 Russkov14
+0. Bboycott - 0-2 crazy_alex
+0. Bielzito - 1-2 TheMagePower
+0. Brivenix - 2-0 Pro_Yojimb0o_Pro
+0. Condescend - 1-2 Mandark
+0. Couldreaver - 0-2 airfarmer
+0. D0C70RF4U57 - 2-0 Malkafa
+0. Entropic_Thunder - 0-2 __CH1
+0. Hellsau - 0-2 TaotheNinja
+0. HolyShamgar - 1-2 Tyrannical
+0. Hrymfaxe - 1-2 tedlyted
+0. Iltahuikaisu - 0-2 varanasibaby
+0. Kzrds - 2-1 Smashing Centaur
+0. Malkafa - 0-2 D0C70RF4U57
+0. Mandark - 2-1 Condescend
+0. Mathonical - 1-2 qbturtle15
+0. Pro_Yojimb0o_Pro - 0-2 Brivenix
+0. Russkov14 - 1-2 BEAFy
+0. Sambos - 1-2 Servemais
+0. Servemais - 2-1 Sambos
+0. Smashing Centaur - 1-2 Kzrds
+0. Tabadonk - 0-2 nuninman
+0. TaotheNinja - 2-0 Hellsau
+0. TheMagePower - 2-1 Bielzito
+0. Toastmachine - 2-1 bigcaban2
+0. TonyMontana - 1-2 pproteus
+0. Tyrannical - 2-1 HolyShamgar
+0. Xto2 - 1-2 andersongouvea
+0. _DissonancE_ - 2-1 pokerswizard
+0. _Takeno_ - 2-1 manyasone
+0. __CH1 - 2-0 Entropic_Thunder
+0. airfarmer - 2-0 Couldreaver
+0. alfreditomelira - 2-0 kungfutrees
+0. andersongouvea - 2-1 Xto2
+0. bigcaban2 - 1-2 Toastmachine
+0. crazy_alex - 2-0 Bboycott
+0. darkrayne0 - 0-2 goyo315
+0. elevatorrider - 1-2 redler
+0. goyo315 - 2-0 darkrayne0
+0. greenprinny - 2-0 m0torhead
+0. herosaine2006 - 2-1 tarkanmag
+0. kungfutrees - 0-2 alfreditomelira
+0. m0torhead - 0-2 greenprinny
+0. manyasone - 1-2 _Takeno_
+0. medvedev - 1-2 miz_yari
+0. miz_yari - 2-1 medvedev
+0. nuninman - 2-0 Tabadonk
+0. pokerswizard - 1-2 _DissonancE_
+0. pproteus - 2-1 TonyMontana
+0. qbturtle15 - 2-1 Mathonical
+0. redler - 2-1 elevatorrider
+0. tarkanmag - 1-2 herosaine2006
+0. tedlyted - 2-1 Hrymfaxe
+0. varanasibaby - 2-0 Iltahuikaisu
+0. vlaprohor - 1-2 420dragon
+
+##### Round 3 #####
+0. 420dragon - 0-2 __CH1
+0. BEAFy - 0-2 elevatorrider
+0. Bboycott - 2-1 Sambos
+0. Bielzito - 2-1 _Takeno_
+0. Brivenix - 2-0 Couldreaver
+0. Brott - 0-2 m0torhead
+0. Condescend - 0-2 kungfutrees
+0. Couldreaver - 0-2 Brivenix
+0. D0C70RF4U57 - 2-1 Tabadonk
+0. Entropic_Thunder - 2-1 Tyrannical
+0. Hellsau - 2-0 miz_yari
+0. HolyShamgar - 0-2 Mathonical
+0. Hrymfaxe - 2-0 WWEHBK
+0. Iltahuikaisu - 0-2 TonyMontana
+0. Kzrds - 2-0 Russkov14
+0. MakingSmartPlays - 1-2 TheMagePower
+0. Malkafa - 0-2 pokerswizard
+0. Mandark - 2-0 vlaprohor
+0. Mathonical - 2-0 HolyShamgar
+0. Pro_Yojimb0o_Pro - 2-1 goyo315
+0. Russkov14 - 0-2 Kzrds
+0. Sambos - 1-2 Bboycott
+0. ScaughtyO - 1-2 herosaine2006
+0. Servemais - 0-2 qbturtle15
+0. Smashing Centaur - 2-0 darkrayne0
+0. Tabadonk - 1-2 D0C70RF4U57
+0. TaotheNinja - 2-0 medvedev
+0. TheMagePower - 2-1 MakingSmartPlays
+0. Toastmachine - 2-0 crazy_alex
+0. TonyMontana - 2-0 Iltahuikaisu
+0. Tyrannical - 1-2 Entropic_Thunder
+0. WWEHBK - 0-2 Hrymfaxe
+0. Xto2 - 2-1 _DissonancE_
+0. _DissonancE_ - 1-2 Xto2
+0. _Takeno_ - 1-2 Bielzito
+0. __CH1 - 2-0 420dragon
+0. airfarmer - 2-1 manyasone
+0. alfreditomelira - 0-2 bigcaban2
+0. andersongouvea - 2-1 tarkanmag
+0. bigcaban2 - 2-0 alfreditomelira
+0. crazy_alex - 0-2 Toastmachine
+0. darkrayne0 - 0-2 Smashing Centaur
+0. elevatorrider - 2-0 BEAFy
+0. goyo315 - 1-2 Pro_Yojimb0o_Pro
+0. greenprinny - 2-0 nuninman
+0. herosaine2006 - 2-1 ScaughtyO
+0. kungfutrees - 2-0 Condescend
+0. m0torhead - 2-0 Brott
+0. manyasone - 1-2 airfarmer
+0. medvedev - 0-2 TaotheNinja
+0. miz_yari - 0-2 Hellsau
+0. nuninman - 0-2 greenprinny
+0. pokerswizard - 2-0 Malkafa
+0. pproteus - 1-2 tedlyted
+0. qbturtle15 - 2-0 Servemais
+0. redler - 2-0 varanasibaby
+0. tarkanmag - 1-2 andersongouvea
+0. tedlyted - 2-1 pproteus
+0. varanasibaby - 0-2 redler
+0. vlaprohor - 0-2 Mandark
+
+##### Round 2 #####
+0. 420dragon - 2-1 D0C70RF4U57
+0. BEAFy - 0-2 varanasibaby
+0. Bboycott - 0-2 pproteus
+0. Bielzito - 0-2 _DissonancE_
+0. Brivenix - 2-1 redler
+0. Brott - 1-2 kungfutrees
+0. Condescend - 1-2 Toastmachine
+0. Couldreaver - 2-0 qbturtle15
+0. D0C70RF4U57 - 1-2 420dragon
+0. Entropic_Thunder - 2-1 Kzrds
+0. Hellsau - 1-2 crazy_alex
+0. HolyShamgar - 2-1 Tabadonk
+0. Hrymfaxe - 2-1 MakingSmartPlays
+0. Iltahuikaisu - 1-2 tarkanmag
+0. Kzrds - 1-2 Entropic_Thunder
+0. MakingSmartPlays - 1-2 Hrymfaxe
+0. Malkafa - 2-1 Spokes
+0. Mandark - 1-2 _Takeno_
+0. Mathonical - 0-2 tedlyted
+0. Pro_Yojimb0o_Pro - 2-0 vlaprohor
+0. Rindsgerd - 0-2 pokerswizard
+0. Russkov14 - 1-2 TaotheNinja
+0. Sambos - 2-1 greenprinny
+0. ScaughtyO - 2-1 Smashing Centaur
+0. Servemais - 2-0 nuninman
+0. Smashing Centaur - 1-2 ScaughtyO
+0. Spokes - 1-2 Malkafa
+0. Tabadonk - 1-2 HolyShamgar
+0. TaotheNinja - 2-1 Russkov14
+0. TheMagePower - 1-2 Xto2
+0. Toastmachine - 2-1 Condescend
+0. TonyMontana - 1-2 bigcaban2
+0. Tyrannical - 2-0 elevatorrider
+0. WWEHBK - 2-1 medvedev
+0. Xto2 - 2-1 TheMagePower
+0. _DissonancE_ - 2-0 Bielzito
+0. _Takeno_ - 2-1 Mandark
+0. __CH1 - 2-1 herosaine2006
+0. airfarmer - 2-1 m0torhead
+0. alfreditomelira - 2-0 miz_yari
+0. andersongouvea - 2-0 goyo315
+0. bigcaban2 - 2-1 TonyMontana
+0. crazy_alex - 2-1 Hellsau
+0. darkrayne0 - 0-2 manyasone
+0. elevatorrider - 0-2 Tyrannical
+0. goyo315 - 0-2 andersongouvea
+0. greenprinny - 1-2 Sambos
+0. herosaine2006 - 1-2 __CH1
+0. kungfutrees - 2-1 Brott
+0. m0torhead - 1-2 airfarmer
+0. manyasone - 2-0 darkrayne0
+0. medvedev - 1-2 WWEHBK
+0. miz_yari - 0-2 alfreditomelira
+0. nuninman - 0-2 Servemais
+0. pokerswizard - 2-0 Rindsgerd
+0. pproteus - 2-0 Bboycott
+0. qbturtle15 - 0-2 Couldreaver
+0. redler - 1-2 Brivenix
+0. tarkanmag - 2-1 Iltahuikaisu
+0. tedlyted - 2-0 Mathonical
+0. varanasibaby - 2-0 BEAFy
+0. vlaprohor - 0-2 Pro_Yojimb0o_Pro
+
+##### Round 1 #####
+0. 420dragon - 1-2 goyo315
+0. BEAFy - 0-2 Xto2
+0. Bboycott - 2-0 kungfutrees
+0. Bielzito - 2-0 Spokes
+0. Brivenix - 2-0 TaotheNinja
+0. Brott - 0-2 TonyMontana
+0. Condescend - 2-0 nuninman
+0. Couldreaver - 2-0 Tyrannical
+0. D0C70RF4U57 - 1-2 Toastmachine
+0. Entropic_Thunder - 0-2 Hrymfaxe
+0. Hellsau - 2-0 Russkov14
+0. HolyShamgar - 1-2 qbturtle15
+0. Hrymfaxe - 2-0 Entropic_Thunder
+0. Iltahuikaisu - 2-0 Tabadonk
+0. Kzrds - 1-2 MakingSmartPlays
+0. MakingSmartPlays - 2-1 Kzrds
+0. Malkafa - 1-2 alfreditomelira
+0. Mandark - 0-2 tarkanmag
+0. Mathonical - 2-0 _Takeno_
+0. Pro_Yojimb0o_Pro - 2-1 m0torhead
+0. Rindsgerd - 0-2 vlaprohor
+0. Russkov14 - 0-2 Hellsau
+0. Sambos - 0-2 herosaine2006
+0. ScaughtyO - 0-2 crazy_alex
+0. Servemais - 0-2 medvedev
+0. Smashing Centaur - 1-2 bigcaban2
+0. Spokes - 0-2 Bielzito
+0. Tabadonk - 0-2 Iltahuikaisu
+0. TaotheNinja - 0-2 Brivenix
+0. TheMagePower - 2-1 greenprinny
+0. Toastmachine - 2-1 D0C70RF4U57
+0. TonyMontana - 2-0 Brott
+0. Tyrannical - 0-2 Couldreaver
+0. WWEHBK - 2-1 varanasibaby
+0. Xto2 - 2-0 BEAFy
+0. _DissonancE_ - 2-1 elevatorrider
+0. _Takeno_ - 0-2 Mathonical
+0. __CH1 - 1-2 andersongouvea
+0. airfarmer - 0-2 miz_yari
+0. alfreditomelira - 2-1 Malkafa
+0. andersongouvea - 2-1 __CH1
+0. bigcaban2 - 2-1 Smashing Centaur
+0. crazy_alex - 2-0 ScaughtyO
+0. darkrayne0 - 0-2 redler
+0. elevatorrider - 1-2 _DissonancE_
+0. goyo315 - 2-1 420dragon
+0. greenprinny - 1-2 TheMagePower
+0. herosaine2006 - 2-0 Sambos
+0. kungfutrees - 0-2 Bboycott
+0. m0torhead - 1-2 Pro_Yojimb0o_Pro
+0. manyasone - 1-2 pproteus
+0. medvedev - 2-0 Servemais
+0. miz_yari - 2-0 airfarmer
+0. nuninman - 0-2 Condescend
+0. pokerswizard - 1-2 tedlyted
+0. pproteus - 2-1 manyasone
+0. qbturtle15 - 2-1 HolyShamgar
+0. redler - 2-0 darkrayne0
+0. tarkanmag - 2-0 Mandark
+0. tedlyted - 2-1 pokerswizard
+0. varanasibaby - 1-2 WWEHBK
+0. vlaprohor - 2-0 Rindsgerd
