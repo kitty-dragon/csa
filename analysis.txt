@@ -1,0 +1,249 @@
+Affinity            53 decks  45.38%  (324-390)
+Snow Delver         48 decks  52.37%  (365-332)
+Stompy              43 decks  52.77%  (353-316)
+Burn                29 decks  45.78%  (179-212)
+Ratlock             16 decks  55.69%  (137-109)
+Kitty               16 decks  52.29%  (114-104)
+Alchemy             15 decks  51.54%  (117-110)
+Eye Candy           15 decks  53.45%  (124-108)
+Delver              14 decks  56.68%  (123-94)
+Inside Out          13 decks  54.82%  (108-89)
+UB Reanimator       10 decks  49.65%  (71-72)
+MBC                 9 decks   45.54%  (51-61)
+Bogles              9 decks   54.93%  (78-64)
+UG Tron             8 decks   48.48%  (48-51)
+Dinrova Tron        8 decks   54.07%  (73-62)
+Teachings           7 decks   40.00%  (38-57)
+Elves               7 decks   38.10%  (32-52)
+Midnight Gond       7 decks   51.55%  (50-47)
+Slivers             6 decks   27.94%  (19-49)
+Angler Delver       6 decks   46.67%  (35-40)
+Murasa Tron         6 decks   42.11%  (32-44)
+UR Burn             5 decks   46.75%  (36-41)
+Esper Familiars     5 decks   55.81%  (48-38)
+RDW                 5 decks   46.91%  (38-43)
+Puzzle              4 decks   56.52%  (39-30)
+Izzet Control       3 decks   46.67%  (21-24)
+White Weenie        3 decks   37.84%  (14-23)
+WB Pestilence       3 decks   45.00%  (18-22)
+Mono Green Tron     2 decks   62.07%  (18-11)
+RB Burn             1 deck    20.00%  (1-4)
+Mono Red Heroic     1 deck    42.86%  (6-8)
+1-land Spy          1 deck    60.00%  (9-6)
+Tortured Existence  1 deck    44.44%  (4-5)
+RG Tokens           1 deck    35.29%  (6-11)
+UG Land Destruction 1 deck    50.00%  (8-8)
+Mono Blue Arcane    1 deck    50.00%  (10-10)
+Turbofog            1 deck    50.00%  (8-8)
+
+----- Matchups for Affinity -----
+Slivers             80.00%  (8-2)
+Murasa Tron         72.73%  (8-3)
+Teachings           66.67%  (8-4)
+MBC                 60.00%  (12-8)
+Esper Familiars     55.56%  (10-8)
+Midnight Gond       54.55%  (6-5)
+Kitty               54.55%  (18-15)
+Delver              50.00%  (10-10)
+Alchemy             48.28%  (14-15)
+Ratlock             47.50%  (19-21)
+Snow Delver         46.67%  (42-48)
+Stompy              43.30%  (42-55)
+Burn                42.50%  (17-23)
+Puzzle              41.67%  (5-7)
+UG Tron             40.91%  (9-13)
+UB Reanimator       35.29%  (6-11)
+Inside Out          32.00%  (8-17)
+Dinrova Tron        24.00%  (6-19)
+Bogles              20.00%  (3-12)
+UR Burn             20.00%  (2-8)
+Eye Candy           13.79%  (4-25)
+
+----- Matchups for Snow Delver -----
+Slivers             100.00%  (10-0)
+Angler Delver       72.73%  (8-3)
+Murasa Tron         72.73%  (8-3)
+Delver              66.67%  (22-11)
+Elves               65.00%  (13-7)
+UR Burn             63.64%  (7-4)
+Burn                63.46%  (33-19)
+UB Reanimator       62.50%  (10-6)
+Eye Candy           60.61%  (20-13)
+Bogles              60.00%  (9-6)
+Dinrova Tron        58.82%  (10-7)
+Esper Familiars     57.14%  (8-6)
+Midnight Gond       53.85%  (7-6)
+Affinity            53.33%  (48-42)
+Turbofog            50.00%  (5-5)
+UG Tron             50.00%  (13-13)
+Inside Out          48.39%  (15-16)
+Alchemy             41.03%  (16-23)
+Stompy              40.00%  (28-42)
+Puzzle              30.77%  (4-9)
+Ratlock             30.56%  (11-25)
+Kitty               30.00%  (6-14)
+
+----- Matchups for Stompy -----
+Delver              61.54%  (16-10)
+Snow Delver         60.00%  (42-28)
+Inside Out          58.33%  (14-10)
+Affinity            56.70%  (55-42)
+Ratlock             53.85%  (14-12)
+Dinrova Tron        52.78%  (19-17)
+Burn                50.91%  (28-27)
+UB Reanimator       50.00%  (8-8)
+Eye Candy           47.37%  (9-10)
+Bogles              46.67%  (14-16)
+Alchemy             44.83%  (13-16)
+UG Tron             42.86%  (9-12)
+Kitty               40.00%  (10-15)
+MBC                 36.84%  (7-12)
+Esper Familiars     35.71%  (5-9)
+
+----- Matchups for Burn -----
+Alchemy             73.33%  (11-4)
+Affinity            57.50%  (23-17)
+UR Burn             55.00%  (11-9)
+Eye Candy           53.85%  (7-6)
+Kitty               50.00%  (8-8)
+Murasa Tron         50.00%  (6-6)
+Stompy              49.09%  (27-28)
+Ratlock             36.84%  (7-12)
+Snow Delver         36.54%  (19-33)
+Inside Out          36.36%  (8-14)
+Delver              31.25%  (5-11)
+UB Reanimator       20.00%  (3-12)
+
+----- Matchups for Ratlock -----
+Snow Delver         69.44%  (25-11)
+Kitty               64.29%  (9-5)
+Burn                63.16%  (12-7)
+Affinity            52.50%  (21-19)
+Inside Out          46.67%  (7-8)
+Stompy              46.15%  (12-14)
+Esper Familiars     40.00%  (4-6)
+Murasa Tron         30.00%  (3-7)
+
+----- Matchups for Kitty -----
+Snow Delver         70.00%  (14-6)
+Stompy              60.00%  (15-10)
+Inside Out          50.00%  (5-5)
+Burn                50.00%  (8-8)
+Affinity            45.45%  (15-18)
+Ratlock             35.71%  (5-9)
+
+----- Matchups for Alchemy -----
+Snow Delver         58.97%  (23-16)
+RDW                 58.82%  (10-7)
+UB Reanimator       58.33%  (7-5)
+Stompy              55.17%  (16-13)
+Affinity            51.72%  (15-14)
+Eye Candy           30.77%  (4-9)
+Burn                26.67%  (4-11)
+
+----- Matchups for Eye Candy -----
+Affinity            86.21%  (25-4)
+Bogles              76.92%  (10-3)
+Alchemy             69.23%  (9-4)
+Inside Out          63.64%  (7-4)
+Stompy              52.63%  (10-9)
+Midnight Gond       46.67%  (7-8)
+Burn                46.15%  (6-7)
+Delver              45.45%  (5-6)
+Snow Delver         39.39%  (13-20)
+
+----- Matchups for Delver -----
+Teachings           80.00%  (8-2)
+Dinrova Tron        75.00%  (9-3)
+Burn                68.75%  (11-5)
+MBC                 63.64%  (7-4)
+Inside Out          58.33%  (7-5)
+Eye Candy           54.55%  (6-5)
+Affinity            50.00%  (10-10)
+Stompy              38.46%  (10-16)
+Snow Delver         33.33%  (11-22)
+
+----- Matchups for Inside Out -----
+Affinity            68.00%  (17-8)
+Burn                63.64%  (14-8)
+Ratlock             53.33%  (8-7)
+Snow Delver         51.61%  (16-15)
+Kitty               50.00%  (5-5)
+Stompy              41.67%  (10-14)
+Delver              41.67%  (5-7)
+Eye Candy           36.36%  (4-7)
+
+----- Matchups for UB Reanimator -----
+Burn                80.00%  (12-3)
+Affinity            64.71%  (11-6)
+Stompy              50.00%  (8-8)
+Alchemy             41.67%  (5-7)
+Snow Delver         37.50%  (6-10)
+
+----- Matchups for MBC -----
+Stompy              63.16%  (12-7)
+Affinity            40.00%  (8-12)
+Delver              36.36%  (4-7)
+
+----- Matchups for Bogles -----
+Affinity            80.00%  (12-3)
+Stompy              53.33%  (16-14)
+Snow Delver         40.00%  (6-9)
+Eye Candy           23.08%  (3-10)
+
+----- Matchups for UG Tron -----
+Affinity            59.09%  (13-9)
+Stompy              57.14%  (12-9)
+Snow Delver         50.00%  (13-13)
+
+----- Matchups for Dinrova Tron -----
+Affinity            76.00%  (19-6)
+Stompy              47.22%  (17-19)
+Snow Delver         41.18%  (7-10)
+Delver              25.00%  (3-9)
+
+----- Matchups for Teachings -----
+Affinity            33.33%  (4-8)
+Delver              20.00%  (2-8)
+
+----- Matchups for Elves -----
+Snow Delver         35.00%  (7-13)
+
+----- Matchups for Midnight Gond -----
+Eye Candy           53.33%  (8-7)
+Snow Delver         46.15%  (6-7)
+Affinity            45.45%  (5-6)
+
+----- Matchups for Slivers -----
+Affinity            20.00%  (2-8)
+Snow Delver         0.00%   (0-10)
+
+----- Matchups for Angler Delver -----
+Snow Delver         27.27%  (3-8)
+
+----- Matchups for Murasa Tron -----
+Ratlock             70.00%  (7-3)
+Burn                50.00%  (6-6)
+Snow Delver         27.27%  (3-8)
+Affinity            27.27%  (3-8)
+
+----- Matchups for UR Burn -----
+Affinity            80.00%  (8-2)
+Burn                45.00%  (9-11)
+Snow Delver         36.36%  (4-7)
+
+----- Matchups for Esper Familiars -----
+Stompy              64.29%  (9-5)
+Ratlock             60.00%  (6-4)
+Affinity            44.44%  (8-10)
+Snow Delver         42.86%  (6-8)
+
+----- Matchups for RDW -----
+Alchemy             41.18%  (7-10)
+
+----- Matchups for Puzzle -----
+Snow Delver         69.23%  (9-4)
+Affinity            58.33%  (7-5)
+
+----- Matchups for Turbofog -----
+Snow Delver         50.00%  (5-5)
