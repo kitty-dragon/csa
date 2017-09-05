@@ -3,18 +3,18 @@
 let fs = require('fs')
 
 if (process.argv.length < 3) {
-  console.log('Usage: ' + process.argv[1] + ' <filename1.txt> [<filename2.txt> ...]')
+  console.log('Usage: ' + process.argv[1] + ' <folder1> [<folder2> ...]')
   process.exit(1)
 }
 
-let mappings = {}
-let map_file = fs.readFileSync('mappings.txt', 'utf8')
+let aliases = {}
+let map_file = fs.readFileSync('aliases.txt', 'utf8')
 
 map_file.split('\n').forEach(line => {
   let names = line.split(',')
 
   for (let i = 1; i < names.length; i++) {
-    mappings[names[i]] = names[0]
+    aliases[names[i]] = names[0]
   }
 })
 
@@ -32,23 +32,21 @@ let DECK_RE    = /^\d+\.\s+(.+?)\s+-\s+([^()]+?)(?:\s+\(.*\))?$/;
 
 // 1. username - 1-2 username
 // 1. username - 0-2-1 username
-let MATCH_RE   = /^\d+\.\s+(.+?)\s+-(?:\s+([012])-([012])(?:-[012])?\s+(.+?))?$/;
+let MATCH_RE   = /^\d+\.\s+(.+?)\s+-(?:\s+([012])-([012])(?:-[0123])?\s+(.+?))?$/;
 
 let deck_stats = {}
 
-function read_file(file) {
-  let contents = fs.readFileSync(file, 'utf8')
-  let lines = contents.split('\n')
-  let i = 0
+function read_folder(folder) {
+  let deck_file = fs.readFileSync(folder + '/decks.txt', 'utf8')
+  let lines = deck_file.split('\n')
   let m
 
   let players = {}
 
-  for (; i < lines.length; i++) {
+  for (let i = 0; i < lines.length; i++) {
     let line = lines[i].trim()
 
     if (line.match(COMMENT_RE)) continue;
-    if (line.match(ROUND_RE)) break;
 
     m = line.match(DECK_RE)
 
@@ -56,7 +54,7 @@ function read_file(file) {
 
     let [ , nick, deck ] = m
 
-    deck = mappings[deck] || deck
+    deck = aliases[deck] || deck
 
     players[nick] = deck
 
@@ -70,6 +68,12 @@ function read_file(file) {
 
     deck_stats[deck].count++
   }
+
+  let match_file = fs.readFileSync(folder + '/matches.txt', 'utf8')
+
+  lines = match_file.split('\n')
+
+  let i = 0;
 
   while (i < lines.length) {
     let line = lines[i].trim()
@@ -133,7 +137,7 @@ function read_file(file) {
   }
 }
 
-process.argv.slice(2).forEach(file => read_file(file))
+process.argv.slice(2).forEach(file => read_folder(file))
 
 function pad(str, n) { return ' '.repeat(Math.max(n - str.length, 0)); }
 

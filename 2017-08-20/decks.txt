@@ -1,0 +1,73 @@
+1. Doctor_Wyrm           - Stompy
+2. overlordhellkite      - Affinity
+3. a_p_s                 - Stompy
+4. billster47            - Mono Blue Delver
+5. blaze66               - UW Tribe
+6. mathguy31415          - UR Delver
+7. HolyShamgar           - RW Kitty Monarch
+8. BlackLotus0014        - UR Delver
+----- 5-2 -----
+9. Xto2                  - UG Tron
+10. coolman2347          - Stompy
+11. LazZoO               - UR Thermo-Archer
+12. Brivenix             - Mono Blue Delver
+13. pproteus             - Stompy
+14. azoriusftw           - Mono Blue Delver
+15. TheMagePower         - UR Delver
+----- 4-3 -----
+16. Mandark              - UB Alchemy
+17. Toastmachine         - UR Blitz
+18. BERNASTORRES         - Bogles
+19. _sameold             - UR Delver
+20. tedlyted             - UR Puzzle
+21. Mathonical           - UG Land Destruction
+22. _Holzi_              - Affinity
+23. BEAFy                - Mono Blue Arcane
+24. sakkra               - UB Alchemy
+25. qbturtle15           - UB Alchemy
+26. DDevitt              - RW Kitty Tokens
+27. Sqlut                - UR Delver
+28. navi_stabber         - RDW
+29. deluxeicoff          - UW Tribe
+30. EightSixEightSix     - UB Reanimator
+31. Hrymfaxe             - Stompy
+----- 3-4 group -----
+32. nagibatel            - Dinrova Tron
+33. _Jodah               - Burn
+34. Grominou             - Affinity
+35. SamuelBeckett        - UB Reanimator
+36. Oderus Urungus       - UR Blitz
+37. DomoArigatoR         - UR Delver
+38. claudiocruz          - UR Delver
+39. greenprinny          - UW Tribe
+40. tarkanmag            - UR Delver
+41. mtgonick93           - RDW
+42. PlunderBot           - UB Ratlock
+43. Joao_Dannemann       - Burn
+----- 2-X group -----
+44. Hellsau              - Esper Familiars
+45. lampalot             - Burn
+46. Judahbenhur          - Elves
+47. Mundisv              - UB Ratlock
+48. F2104                - UB Alchemy
+49. FoundryStreetDenizen - UB Alchemy
+50. Servemais            - Affinity
+51. penips               - Stompy
+52. FranMtg              - Slivers
+----- 1-X group -----
+53. solace               - MBC
+54. Shorsh               - Burn
+55. JasenBS              - Affinity
+56. NoneOfYourBusiness   - Affinity
+57. Teia                 - UR Delver
+58. Prison_Warden        - Elves
+59. rufithweb            - Murasa Tron
+----- 0-X group -----
+60. Jstimec1             - UR Delver
+61. AlwaysFace           - Affinity
+62. Wazman2              - UB Alchemy
+63. mlovbo               - UG Tron
+64. TonyMontana          - Affinity
+65. karatedom            - Burn
+66. Yoshumotto           - Burn
+67. Iltahuikaisu         - Elves

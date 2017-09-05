@@ -1,4 +1,4 @@
-### Challenge ~~Spying~~ Surveillance Agency.
+### Challenge ~~Spying~~ Surveillance Agency
 
 We aim to provide a consistent back-up storage for all your challenge matches.
 
