@@ -18,6 +18,7 @@ map_file.split('\n').forEach(line => {
   }
 })
 
+let DECK_THRESHOLD = 3
 let GAME_THRESHOLD = 10
 
 // everything that starts with "-" or is empty line is skipped
@@ -144,6 +145,7 @@ function pad(str, n) { return ' '.repeat(Math.max(n - str.length, 0)); }
 Object.keys(deck_stats)
     .map(deck => deck_stats[deck])
     .sort((deck1, deck2) => deck2.count - deck1.count)
+    .filter(deck => deck.count >= DECK_THRESHOLD)
     .forEach(deck => {
 
   let deck_count = String(deck.count) + ' ' + (deck.count === 1 ? 'deck' : 'decks')
