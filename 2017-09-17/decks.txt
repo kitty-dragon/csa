@@ -1,0 +1,80 @@
+1. Mathonical           - Boros Monarch
+2. Servemais            - Stompy
+3. goyo315              - Izzet Delver
+4. Xto2                 - Murasa Tron
+5. Oderus.Urungus       - Boros Monarch
+6. BERNASTORRES         - Delver
+7. Cdawgirard           - Dimir Flicker
+8. pproteus             - Boros Monarch
+----- 5-X group -----
+9. TomatoCheese         - Affinity
+10. _DissonancE_        - Stompy
+11. __CH1               - Affinity
+12. tabunghasisi        - Affinity
+13. greenprinny         - Inside Out
+14. coolman2347         - Stompy
+15. sandydogmtg         - Burn
+16. blaze66             - Izzet Delver
+17. ticki               - Izzet Delver
+----- 4-X group -----
+18. Hrymfaxe            - Stompy
+19. Jorge_Jung          - MBC
+20. Fischer88           - Dimir Flicker
+21. Doctor_Wyrm         - Stompy
+22. Team5c              - Dimir Angler
+23. dd_fan              - MUC
+24. AlwaysFace          - Affinity
+25. billster47          - Delver
+26. Lugmi               - Slivers
+27. tesca               - Izzet Delver
+28. TinMan354           - Stompy
+29. pikolin3            - Delver
+30. qbturtle15          - Dimir Alchemy
+31. Amigosu             - Boros Monarch
+32. TopMosby            - Boros Monarch
+33. lucadaky            - Affinity
+34. nickdebe            - Hexproof
+----- 3-X group -----
+35. Signal              - Goblins
+36. Toastmachine        - Eye Candy
+37. param               - Burn
+38. ads21               - Burn
+39. CounterTopGarchomp  - Eye Candy
+40. 420dragon           - Dinrova Tron
+41. Arianne             - Dimir Flicker
+42. _Lavadrako92_       - Izzet Delver
+43. JakeHelms           - Izzet Delver
+44. RearrangedAS        - WB Pestilence
+45. _alice1986_         - Burn
+46. Hitesy              - Izzet Burn (rift bolt, kiln fiend, delver, counterspell, thunderous wrath)
+47. Gereffi             - Dimir Exhume
+----- 2-X group -----
+48. arucki              - Dimir Angler
+49. reqsamurai          - RG Madness
+50. _Raiden_            - Boros Monarch
+51. wiltstorm           - Dimir Angler
+----- 1-X group -----
+52. azabu               - Dinrova Tron
+53. Sqlut               - Burn
+54. ____DELBAS          - Hexproof
+55. DollaDollaBill      - Sultai Pestilence (sylvok lifestaff, raven's crime, sakura-traibe elder, pristine talisman, curse of the bloody tome, tangle, angler, crypt rats, thorn)
+56. MoofPotter          - Boros Monarch
+57. zday12345           - Affinity
+58. Joe_ABL             - Burn
+59. Phokus1             - Izzet Delver
+60. Olivetti            - Boros Monarch
+61. Dylan93             - Dinrova Tron
+62. djbmppwns           - Affinity
+63. tarkanmag           - Dimir Flicker
+----- 0-X group -----
+64. TonyMontana         - Unknown
+65. Drugulubudul        - Stompy
+66. Andrea94            - Burn
+67. Timr0d              - Affinity
+68. penips              - Stompy
+69. InternetWhiteKnight - Affinity
+70. esmyth              - Monowhite
+71. himurayuu           - Dimir Flicker
+72. crupdog             - Dimir Exhume
+73. basky45             - Gruul Aggro (rip-clan crasher, scab-clan mauler, goblin bushwhacker, ash barrens, mwonvuli acid-moss, kaervek's torch)
+74. panterq             - Izzet Delver
